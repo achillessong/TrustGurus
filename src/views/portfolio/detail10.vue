@@ -224,7 +224,7 @@
                 </div>
                 
                 <div>
-                    <img src="/src/portfolioes/doghouse.PNG" alt="portfolio-img-4" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
+                    <img src="/src/portfolioes/doghouse.jpg" alt="portfolio-img-4" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
                 </div>
             </div>
         </section>

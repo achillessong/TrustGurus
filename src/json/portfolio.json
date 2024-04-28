@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "image": "/src/portfolioes/unogame.PNG",
+        "image": "/src/portfolioes/unogame.jpg",
         "type": "game app",
         "title": "UnoGame",
         "category":"Game Moblie Application"
@@ -64,7 +64,7 @@
     },
     {
         "id": "10",
-        "image": "/src/portfolioes/doghouse.PNG",
+        "image": "/src/portfolioes/doghouse.jpg",
         "type": "game web",
         "title": "Dog House SlotGame",
         "category":"Game"
