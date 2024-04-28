@@ -475,10 +475,9 @@
     </div>
 </template>
 <script setup lang="ts">
-    import { useAppStore } from '@/stores/index';
-    import Portfolio from '@/components/Portfolio.vue';
-    const store = useAppStore();
     import { ref, onMounted} from 'vue';
+    import { useAppStore } from '@/stores/index';
+    const store = useAppStore();
     const portfolioTypes = ref([]);
     const portfolioes = ref([]);
     onMounted(async () => {

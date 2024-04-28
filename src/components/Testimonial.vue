@@ -137,11 +137,11 @@
 <script setup lang="ts">
     import { Swiper, SwiperSlide } from 'swiper/vue';
     import { Navigation, Autoplay } from 'swiper';
+    import { ref, onMounted} from 'vue';
     import 'swiper/css';
     import 'swiper/css/navigation';
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
-    import { ref, onMounted} from 'vue';
     const jsonData = ref([]);
     onMounted(async () => {
     try {

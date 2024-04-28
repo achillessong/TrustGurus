@@ -71,7 +71,7 @@
     },
     {
         "id": "11",
-        "image": "/src/blogs/stupid/blog-1.PNG",
+        "image": "/src/blogs/stupid/blog-1.jpg",
         "category": "Backend Development",
         "title": "Top 5 Agile Testing Practices for the Future",
         "description": "Delivering quality software at a faster pace was the end goal of the agile approach in the beginning. But today the approach has expanded to other aspects of software development as well. Agile testing is a real thing these days. It is an integral part of the software development process that is helping entrepreneurs build high-quality software products that are free of bugs and other issues."
@@ -92,7 +92,7 @@
     },
     {
         "id": "14",
-        "image": "/src/blogs/stupid/blog-4.PNG",
+        "image": "/src/blogs/stupid/blog-4.jpg",
         "category": "Backend Development",
         "title": "Clean Code in Python: Good vs. Bad Practices Examples",
         "description": "In this guide, we’ll delve deeper into the concept of “Clean Code” in Python, contrasting examples of good and bad practices. This comparison will illustrate how clean code principles can transform code from being hard to maintain and understand to being clear and efficient."

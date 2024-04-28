@@ -1319,12 +1319,12 @@
     </div>
 </template>
 <script setup lang="ts">
+    import { ref, onMounted} from 'vue';
     import emailjs from 'emailjs-com';
     import Faq from '@/components/Faq.vue';
     import OfficeSwiper from '@/components/OfficeSwiper.vue';
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
-    import { ref, onMounted} from 'vue';
     const branches = ref([]);
     const teaminfor = ref([]);
     let formData = {

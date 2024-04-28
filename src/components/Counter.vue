@@ -184,6 +184,7 @@
     </div>
 </template>
 <script setup lang="ts">
+    import { ref, onMounted} from 'vue';
     import CountUp from 'vue-countup-v3';
     defineProps({
         showTitle: {
@@ -191,8 +192,6 @@
             default: true,
         },
     });
-    import { ref, onMounted} from 'vue';
-
     const jsonData = ref([]);
     // let firstDescription = ref([]);
 

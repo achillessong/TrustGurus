@@ -475,14 +475,13 @@
     </div>
 </template>
 <script setup lang="ts">
+    import { ref, onMounted} from 'vue';
     import emailjs from 'emailjs-com';
     import Testimonial from '@/components/Testimonial.vue';
     import Counter from '@/components/Counter.vue';
     import Category from '@/components/Category.vue';
-    import Portfolio from '@/components/Portfolio.vue';
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
-    import { ref, onMounted} from 'vue';
     const leaders = ref([]);
     const portfolioTypes = ref([]);
     const portfolioes = ref([]);

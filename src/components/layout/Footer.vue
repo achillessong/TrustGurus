@@ -150,8 +150,8 @@
 </template>
 <script setup lang="ts">
     import { useAppStore } from '@/stores/index';
-    const store = useAppStore();
     import { ref, onMounted} from 'vue';
+    const store = useAppStore();
     const services = ref([]);
     const teaminfor = ref([]);
     onMounted(async () => {

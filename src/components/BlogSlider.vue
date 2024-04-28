@@ -101,13 +101,13 @@
     </section>
 </template>
 <script setup lang="ts">
+    import {ref, onMounted} from 'vue';
     import { Swiper, SwiperSlide } from 'swiper/vue';
     import { Navigation, Autoplay } from 'swiper';
     import 'swiper/css';
     import 'swiper/css/navigation';
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
-    import { ref, onMounted} from 'vue';
     const jsonData = ref([]);
     onMounted(async () => {
     try {

@@ -56,15 +56,14 @@
     </div>
 </template>
 <script setup lang="ts">
-    import CountUp from 'vue-countup-v3';
+    import {ref, onMounted} from 'vue';
     defineProps({
         showTitle: {
             type: Boolean,
             default: true,
         },
     });
-    import { ref, onMounted} from 'vue';
-
+    
     const jsonData = ref([]);
     // let firstDescription = ref([]);
 

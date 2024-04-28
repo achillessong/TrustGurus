@@ -582,12 +582,12 @@
     </div>
 </template>
 <script setup lang="ts">
+    import { ref, onMounted} from 'vue';
     import BlogSlider from '@/components/BlogSlider.vue';
     import Testimonial from '@/components/Testimonial.vue';
     import Faq from '@/components/Faq.vue';
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
-    import { ref, onMounted} from 'vue';
     const jsonData = ref([]);
     const stepProcesses = ref([]);
     const expertises = ref([]);

@@ -29,7 +29,7 @@
                             data-aos-duration="1000"
                         >
                             <img
-                                src="/src/blogs/stupid/blog-1.PNG"
+                                src="/src/blogs/stupid/blog-1.jpg"
                                 alt="blog-detail-hero"
                                 class="mx-auto h-80 rounded-[32px] object-cover sm:h-[400px] sm:w-[445px]"
                             />

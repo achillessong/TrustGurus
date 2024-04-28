@@ -29,7 +29,7 @@
                             data-aos-duration="1000"
                         >
                             <img
-                                src="/src/blogs/stupid/blog-4.PNG"
+                                src="/src/blogs/stupid/blog-4.jpg"
                                 alt="blog-detail-hero"
                                 class="mx-auto h-80 rounded-[32px] object-cover sm:h-[400px] sm:w-[445px]"
                             />
@@ -50,14 +50,14 @@
                     <div class="grid gap-[30px] sm:grid-cols-2">
                         <div class="grid sm:grid-cols-1">
                             <h4>Bad Practice:</h4>
-                            <img src="/src/blogs/stupid/blog-4/1.PNG" alt="portfolio-img-1" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
+                            <img src="/src/blogs/stupid/blog-4/1.jpg" alt="portfolio-img-1" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
                             <p>
                                 In this example, the names of the variables and function are nondescriptive. It’s unclear what each variable represents or what the function does.
                             </p>
                         </div>
                         <div class="grid sm:grid-cols-1">
                             <h4>Good Practice:</h4>
-                            <img src="/src/blogs/stupid/blog-4/2.PNG" alt="portfolio-img-2" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
+                            <img src="/src/blogs/stupid/blog-4/2.jpg" alt="portfolio-img-2" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
                             <p>This code uses descriptive names, making it much clearer and more readable.</p>
                         </div>
                     </div>
@@ -65,14 +65,14 @@
                     <div class="grid gap-[30px] sm:grid-cols-2">
                         <div class="grid sm:grid-cols-1">
                             <h4>Bad Practice:</h4>
-                            <img src="/src/blogs/stupid/blog-4/3.PNG" alt="portfolio-img-1" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
+                            <img src="/src/blogs/stupid/blog-4/3.jpg" alt="portfolio-img-1" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
                             <p>
                                 Here, process_data is doing too much: filtering data, calculating an average, and printing results.
                             </p>
                         </div>
                         <div class="grid sm:grid-cols-1">
                             <h4>Good Practice:</h4>
-                            <img src="/src/blogs/stupid/blog-4/4.PNG" alt="portfolio-img-2" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
+                            <img src="/src/blogs/stupid/blog-4/4.jpg" alt="portfolio-img-2" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
                             <p>
                                 Dividing the functionality into three separate functions improves clarity and code reusability.
                             </p>
@@ -82,14 +82,14 @@
                     <div class="grid gap-[30px] sm:grid-cols-2">
                         <div class="grid sm:grid-cols-1">
                             <h4>Bad Practice:</h4>
-                            <img src="/src/blogs/stupid/blog-4/5.PNG" alt="portfolio-img-1" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
+                            <img src="/src/blogs/stupid/blog-4/5.jpg" alt="portfolio-img-1" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
                             <p>
                                 This code does not handle the possibility of dividing by zero, which could lead to uncaught errors.
                             </p>
                         </div>
                         <div class="grid sm:grid-cols-1">
                             <h4>Good Practice:</h4>
-                            <img src="/src/blogs/stupid/blog-4/6.PNG" alt="portfolio-img-2" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
+                            <img src="/src/blogs/stupid/blog-4/6.jpg" alt="portfolio-img-2" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
                             <p>
                                 Here, the code proactively handles the possibility of an error, avoiding potential problems.
                             </p>
@@ -99,14 +99,14 @@
                     <div class="grid gap-[30px] sm:grid-cols-2">
                         <div class="grid sm:grid-cols-1">
                             <h4>Bad Practice:</h4>
-                            <img src="/src/blogs/stupid/blog-4/7.PNG" alt="portfolio-img-1" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
+                            <img src="/src/blogs/stupid/blog-4/7.jpg" alt="portfolio-img-1" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
                             <p>
                                 In this example, printing product details is duplicated in two functions.
                             </p>
                         </div>
                         <div class="grid sm:grid-cols-1">
                             <h4>Good Practice:</h4>
-                            <img src="/src/blogs/stupid/blog-4/8.PNG" alt="portfolio-img-2" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
+                            <img src="/src/blogs/stupid/blog-4/8.jpg" alt="portfolio-img-2" class="rounded-[2px]" data-aos="fade-up" data-aos-duration="1000" />
                             <p>
                                 The function print_product_info eliminates duplication and allows for greater flexibility.
                             </p>

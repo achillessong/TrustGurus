@@ -823,13 +823,13 @@
     </div>
 </template>
 <script setup lang="ts">
+    import { ref, onMounted} from 'vue';
     import ContactUs from '@/components/ContactUs.vue';
     import OfficeSwiper from '@/components/OfficeSwiper.vue';
     import VueEasyLightbox from 'vue-easy-lightbox';
 
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
-    import { ref, onMounted} from 'vue';
     const jsonData = ref([]);
     const positionTypes = ref([]);
     const positions = ref([]);
