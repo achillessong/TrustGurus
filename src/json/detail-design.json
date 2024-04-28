@@ -1,0 +1,22 @@
+[
+    
+    {
+        "id": "1",
+        "title": "UI/UX Design",
+        "description": "Our team handles the full cycle of mobile app and website design services. We produce only top-notch applications and websites with great design UX, UI, navigation, and functionality.",
+        "buttonDescripton": "Book A Free Consultation",
+        "image":"/assets/images/services-detail-phone.png"
+    },
+    {
+        "id": "2",
+        "title": "Design Process",
+        "description": "Keep your users at the center of your design process with our UXD practices",
+        "subDescription": "We combine our team’s depth of experience in design, our client’s intimate knowledge of the industries they serve and insights uncovered through the discoveries we make.",
+        "location":"Coolumburra, Australia",
+        "image":"/assets/images/canada-branch.png"
+    },
+    {
+        "id": "3",
+        "description": "Our Design Expertise"
+    }
+]

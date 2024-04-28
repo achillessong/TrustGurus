@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "step": "Collect Ideas",
+        "description": "We gather different ideas and concepts from various sources to spark creativity and come up with new and innovative solutions."
+    },
+    {
+        "id": "2",
+        "step": "Data Analysis",
+        "description": "We use statistical techniques, visualizations, and data analysis to find important information that helps us make smart decisions in various fields"
+    },
+    {
+        "id": "3",
+        "step": "Finalize Product",
+        "description": "We make careful changes to the product to meet the desired specifications, quality standards, and user needs before it's ready to be made or released."
+    }
+]

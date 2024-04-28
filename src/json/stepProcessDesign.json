@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "Define",
+        "description": "We combine our team’s depth of experience in design."
+    },
+    {
+        "id": "2",
+        "title": "Design",
+        "description": "Curabitur a libero nec dolor ultricies suscipit."
+    },
+    {
+        "id": "3",
+        "title": "Build",
+        "description": "Donec iaculis massa id venenatis ultrices."
+    },
+    {
+        "id": "4",
+        "title": "Test",
+        "description": "Proin cursus diam eu nunc aliquet aliquam."
+    },
+    {
+        "id": "5",
+        "title": "Launch",
+        "description": "Ut vehicula ante at turpis luctus sollicitudin."
+    }
+]

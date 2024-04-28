@@ -1,0 +1,21 @@
+[
+    
+    {
+        "id": "1",
+        "title": "Our team's",
+        "subTitle": "BlockChain Service",
+        "description": "Our team is by enabling our clients to harness the transformative power of this revolutionary technology, we empower them to achieve their goals and drive meaningful change in their industries.",
+        "buttonDescripton": "Book A Free Consultation",
+        "image":"/src/portfolioes/blockchian1.png"
+    },
+    {
+        "id": "2",
+        "title": "Develop Process",
+        "description": "Keep your users at the center of your blockchain process with our practices",
+        "subDescription": "We combine our team’s depth of experience in blockchain, our client’s intimate knowledge of the industries they serve and insights uncovered through the discoveries we make."
+    },
+    {
+        "id": "3",
+        "description": "Our Develop Expertise"
+    }
+]

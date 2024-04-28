@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1",
+        "description": "About Us"
+    },
+    {
+        "id": "2",
+        "description": "About TrustGurus Technologies"
+    },
+    {
+        "id": "3",
+        "description": "Who are we?"
+    },
+    {
+        "id": "4",
+        "description": "We thrive to help our clients have global impact"
+    },
+    {
+        "id": "5",
+        "description": "We are a group of passionate professionals with diverse skills, working together to deliver outstanding results for our clients. We are committed to excellence and building strong relationships to help our clients succeed."
+    },
+    {
+        "id": "6",
+        "description": "/assets/images/about-bg.png"
+    },
+    {
+        "id": "7",
+        "description": "How it works?"
+    },
+    {
+        "id": "8",
+        "description": "Here are 3 working steps to organize our business projects."
+    },
+    {
+        "id": "9",
+        "description": "Find out everything you need to know and more about how we create our business process models."
+    },
+    {
+        "id": "10",
+        "description": "Find out everything you need to know and more about how we create our business process models."
+    },
+    {
+        "id": "11",
+        "title": "Growth",
+        "description": "140% Growth in last year",
+        "clientIncreaseCount":"90%",
+        "clientIncreaseDescription":"Clients saw an increase of more of 90% on sales",
+        "salesUpCount":"10x",
+        "salesUpDescription":"Sales went up more than expected",
+        "engagementCount":"4.4M",
+        "engagementDescription":"High engagement rate since day one"
+    },
+    {
+        "id": "12",
+        "title": "Our Awards",
+        "description":"As the world's leading web & mobile app development company have been privileged to win",
+        "boldDescription":"13+ numerous awards",
+        "lastDescriptoin":"for our working process. We’re honored to be a recipient of each of these awards for our hard work & customers loyalty."
+    },
+    {
+        "id": "13",
+        "memberTitle":"Meet Our Team",
+        "memberTitleBottom": "Creative Minds"
+    },
+    {
+        "id": "14",
+        "description": "Find out everything you need to know and more about how we create our business process models."
+    },
+    {
+        "id": "15",
+        "description": "Find out everything you need to know and more about how we create our business process models."
+    }
+]

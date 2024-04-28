@@ -1,0 +1,58 @@
+[   
+    {
+        "id": "1",
+        "name": "Navil",
+        "role": "CEO of Bonokey",
+        "thumbnail": "/src/clients/bonokey.jpg",
+        "star":"5",
+        "message":"The team's exceptional skills, seamless collaboration, and unwavering dedication resulted in the creation of a remarkable product that exceeded all expectations."
+    },
+    {
+        "id": "2",
+        "name": "Mat De Sousa",
+        "role": "Founder and CEO of The Wide Company",
+        "thumbnail": "/src/clients/mat.png",
+        "star":"5",
+        "message":"The developer team's expertise in Shopify was instrumental in creating a visually stunning and user-friendly online store that has significantly boosted our sales and customer satisfaction."
+    },
+    {
+        "id": "3",
+        "name": "Bruce Morgan",
+        "role": "Founder and Creative Director - Orion Concepts",
+        "thumbnail": "/src/clients/bruce.jpg",
+        "star":"5",
+        "message":"The team's expertise in Shopify development has transformed our online store, delivering a seamless, visually stunning, and highly functional platform that has significantly enhanced our customers' shopping experience."
+    },
+    {
+        "id": "4",
+        "name": "Maya Parbhoe",
+        "role": "CEO Daedalus Labs",
+        "thumbnail": "/src/clients/MayA.jpg",
+        "star":"5",
+        "message":"The developer team's mastery of blockchain technology has revolutionized our business operations, providing us with secure and transparent solutions that have streamlined processes and instilled trust among our stakeholders."
+    },
+    {
+        "id": "5",
+        "name": "王浩然",
+        "role": "CEO of Lifted",
+        "thumbnail": "/src/clients/wang.jpg",
+        "star":"5",
+        "message":"The developer team's deep understanding of blockchain technology and their meticulous implementation have empowered us with a secure and transparent system that revolutionizes our operations and enhances trust in our business processes."
+    },
+    {
+        "id": "6",
+        "name": "Dmytro Bondar",
+        "role": "CTO of Romingo",
+        "thumbnail": "/src/clients/Dmi.jpg",
+        "star":"5",
+        "message":"This team's adeptness in harnessing the power of AI has allowed us to unlock new frontiers, revolutionizing our processes with intelligent automation and enabling us to make data-driven decisions with unprecedented accuracy and efficiency."
+    },
+    {
+        "id": "7",
+        "name": "JP",
+        "role": "Founder of PROOF",
+        "thumbnail": "/src/clients/JP.jpg",
+        "star":"5",
+        "message":"The developer team's innovative integration of blockchain technology into our gaming experience has created a truly immersive and decentralized environment, offering players unprecedented ownership and security of in-game assets while revolutionizing the gaming industry as a whole."
+    }
+]

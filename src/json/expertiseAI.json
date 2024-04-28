@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "no":"01",
+        "title": "Problem Understanding and Solution Design",
+        "description": "Our AI development expertise begins with thoroughly understanding the problem at hand and designing an appropriate solution. We analyze the requirements, assess the feasibility, and define clear objectives for the AI project."
+    },
+    {
+        "id": "2",
+        "no":"02",
+        "title": "Data Acquisition and Preprocessing",
+        "description": "The next step involves acquiring relevant data and preparing it for AI model training. We carefully select and collect high-quality data, clean and preprocess it to remove inconsistencies, and ensure it is in a suitable format for analysis."
+    },
+    {
+        "id": "3",
+        "no":"03",
+        "title": "Model Development and Training",
+        "description": "In this step, we develop the AI model architecture and train it using the prepared data. We leverage advanced algorithms and techniques, fine-tuning the model parameters and optimizing its performance through iterative training processes."
+    },
+    {
+        "id": "4",
+        "no":"04",
+        "title": "Evaluation and Deployment",
+        "description": "Once the AI model is trained, we evaluate its performance using appropriate evaluation metrics. We validate the model's accuracy and effectiveness, making necessary adjustments if required. Finally, we deploy the AI solution, ensuring it integrates seamlessly with the intended environment and provides valuable insights or automation capabilities."
+    }
+]

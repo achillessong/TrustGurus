@@ -1,0 +1,19 @@
+[
+    
+    {
+        "id": "1",
+        "title": "Canada Branch",
+        "phoneNumber": "(480) 555-0103",
+        "email": "michelle.rivera@example.com",
+        "location":"Ontario, Canada",
+        "image":"/assets/images/canada-branch.png"
+    },
+    {
+        "id": "2",
+        "title": "Australia Branch",
+        "phoneNumber": "(08) 9082 3286",
+        "email": "michelle.rivera@example.com",
+        "location":"Coolumburra, Australia",
+        "image":"/assets/images/canada-branch.png"
+    }
+]
