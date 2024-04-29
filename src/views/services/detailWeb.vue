@@ -594,8 +594,8 @@
     const portfolioes = ref([]);
     onMounted(async () => {
     try {
-        const leadersResponse = await fetch('./public/json/detail-web.json');
-        const portfolioesResponse = await fetch('./public/json/portfolio.json');
+        const leadersResponse = await fetch('/json/detail-web.json');
+        const portfolioesResponse = await fetch('/json/portfolio.json');
         jsonData.value = await leadersResponse.json();
         portfolioes.value = await portfolioesResponse.json();
     } catch (error) {

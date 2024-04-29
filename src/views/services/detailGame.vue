@@ -497,10 +497,10 @@
     const portfolioes = ref([]);
     onMounted(async () => {
     try {
-        const leadersResponse = await fetch('./public/json/detail-game.json');
-        const stepProcessesResponse = await fetch('./public/json/stepProcessGame.json');
-        const expertiseResponse = await fetch('./public/json/expertiseGame.json');
-        const portfolioesResponse = await fetch('./public/json/portfolio.json');
+        const leadersResponse = await fetch('/json/detail-game.json');
+        const stepProcessesResponse = await fetch('/json/stepProcessGame.json');
+        const expertiseResponse = await fetch('/json/expertiseGame.json');
+        const portfolioesResponse = await fetch('/json/portfolio.json');
         jsonData.value = await leadersResponse.json();
         stepProcesses.value = await stepProcessesResponse.json();
         expertises.value = await expertiseResponse.json();

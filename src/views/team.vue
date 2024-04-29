@@ -497,7 +497,7 @@
 
     onMounted(async () => {
     try {
-        const response = await fetch('/public/json/team.json');
+        const response = await fetch('/json/team.json');
         jsonData.value = await response.json();
     } catch (error) {
         console.error('Error fetching JSON data: ', error);

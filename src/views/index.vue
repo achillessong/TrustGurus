@@ -531,9 +531,9 @@
     };
     onMounted(async () => {
     try {
-        const leadersResponse = await fetch('/public/json/team.json');
-        const portfolioTypesResponse = await fetch('/public/json/portfolioTypes.json');
-        const portfolioesResponse = await fetch('/public/json/portfolio.json');
+        const leadersResponse = await fetch('/json/team.json');
+        const portfolioTypesResponse = await fetch('/json/portfolioTypes.json');
+        const portfolioesResponse = await fetch('/json/portfolio.json');
         leaders.value = await leadersResponse.json();
         portfolioTypes.value = await portfolioTypesResponse.json();
         portfolioes.value = await portfolioesResponse.json();

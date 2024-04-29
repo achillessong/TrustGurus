@@ -510,10 +510,10 @@
     const portfolioes = ref([]);
     onMounted(async () => {
     try {
-        const leadersResponse = await fetch('./public/json/detail-design.json');
-        const stepProcessesResponse = await fetch('./public/json/stepProcessDesign.json');
-        const expertiseResponse = await fetch('./public/json/expertiseDesign.json');
-        const portfolioesResponse = await fetch('./public/json/portfolio.json');
+        const leadersResponse = await fetch('/json/detail-design.json');
+        const stepProcessesResponse = await fetch('/json/stepProcessDesign.json');
+        const expertiseResponse = await fetch('/json/expertiseDesign.json');
+        const portfolioesResponse = await fetch('/json/portfolio.json');
         jsonData.value = await leadersResponse.json();
         stepProcesses.value = await stepProcessesResponse.json();
         expertises.value = await expertiseResponse.json();

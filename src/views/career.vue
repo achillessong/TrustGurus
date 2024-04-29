@@ -836,10 +836,10 @@
     const leaders = ref([]);
     onMounted(async () => {
     try {
-        const response = await fetch('/public/json/careers.json');
-        const positionTypesResponse = await fetch('/public/json/positionTypes.json');
-        const positinResponse = await fetch('/public/json/positions.json');
-        const leadersResponse = await fetch('/public/json/team.json');
+        const response = await fetch('/json/careers.json');
+        const positionTypesResponse = await fetch('/json/positionTypes.json');
+        const positinResponse = await fetch('/json/positions.json');
+        const leadersResponse = await fetch('/json/team.json');
         jsonData.value = await response.json();
         positionTypes.value = await positionTypesResponse.json();
         positions.value = await positinResponse.json();

@@ -69,7 +69,7 @@
 
     onMounted(async () => {
     try {
-        const response = await fetch('/public/json/categories.json');
+        const response = await fetch('/json/categories.json');
         jsonData.value = await response.json();
         console.log(jsonData.value);
     } catch (error) {

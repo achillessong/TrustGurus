@@ -1368,7 +1368,7 @@
     };
     onMounted(async () => {
     try {
-        const teaminforResponse = await fetch('/public/json/team_infor.json');
+        const teaminforResponse = await fetch('/json/team_infor.json');
         teaminfor.value = await teaminforResponse.json();
     } catch (error) {
         console.error('Error fetching JSON data: ', error);

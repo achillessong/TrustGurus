@@ -110,7 +110,7 @@
     const jsonData = ref([]);
     onMounted(async () => {
     try {
-        const response = await fetch('./public/json/portfolio.json');
+        const response = await fetch('/json/portfolio.json');
         jsonData.value = await response.json();
     } catch (error) {
         console.error('Error fetching JSON data: ', error);
