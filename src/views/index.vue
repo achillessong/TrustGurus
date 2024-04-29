@@ -475,8 +475,8 @@
     </div>
 </template>
 <script setup lang="ts">
-    import emailjs from 'emailjs-com';
     import { ref, onMounted} from 'vue';
+    import emailjs from 'emailjs-com';
     import Testimonial from '@/components/Testimonial.vue';
     import Counter from '@/components/Counter.vue';
     import Category from '@/components/Category.vue';
