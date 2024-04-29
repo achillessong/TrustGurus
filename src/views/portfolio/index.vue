@@ -477,15 +477,14 @@
 <script setup lang="ts">
     import { ref, onMounted} from 'vue';
     import { useAppStore } from '@/stores/index';
-    import portfolioTypesImp from '@/json/portfolioTypes.json';
-    import portfolioImp from '@/json/portfolio.json';
+    import Portfolio from '@/components/Portfolio.vue';
     const store = useAppStore();
     const portfolioTypes = ref([]);
     const portfolioes = ref([]);
     onMounted(async () => {
     try {
-        const portfolioTypesResponse = await fetch(portfolioTypesImp);
-        const portfolioResponse = await fetch(portfolioImp);
+        const portfolioTypesResponse = await fetch('/public/json/portfolioTypes.json');
+        const portfolioResponse = await fetch('/public/json/portfolio.json')
         portfolioTypes.value = await portfolioTypesResponse.json();
         portfolioes.value = await portfolioResponse.json();
     } catch (error) {

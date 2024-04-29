@@ -475,16 +475,14 @@
     </div>
 </template>
 <script setup lang="ts">
-    import { ref, onMounted} from 'vue';
     import emailjs from 'emailjs-com';
     import Testimonial from '@/components/Testimonial.vue';
     import Counter from '@/components/Counter.vue';
     import Category from '@/components/Category.vue';
+    import Portfolio from '@/components/Portfolio.vue';
     import { useAppStore } from '@/stores/index';
-    import teamImp from '@/json/team.json';
-    import portfolioTypesImp from '@/json/portfolioTypes.json';
-    import portfolioImp from '@/json/portfolio.json';
     const store = useAppStore();
+    import { ref, onMounted} from 'vue';
     const leaders = ref([]);
     const portfolioTypes = ref([]);
     const portfolioes = ref([]);
@@ -532,9 +530,9 @@
     };
     onMounted(async () => {
     try {
-        const leadersResponse = await fetch(teamImp);
-        const portfolioTypesResponse = await fetch(portfolioTypesImp);
-        const portfolioesResponse = await fetch(portfolioImp);
+        const leadersResponse = await fetch('/public/json/team.json');
+        const portfolioTypesResponse = await fetch('/public/json/portfolioTypes.json');
+        const portfolioesResponse = await fetch('/public/json/portfolio.json');
         leaders.value = await leadersResponse.json();
         portfolioTypes.value = await portfolioTypesResponse.json();
         portfolioes.value = await portfolioesResponse.json();

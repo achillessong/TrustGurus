@@ -1322,7 +1322,6 @@
     import { ref, onMounted} from 'vue';
     import emailjs from 'emailjs-com';
     import OfficeSwiper from '@/components/OfficeSwiper.vue';
-    import teaminfo from '@/json/team_infor.json';
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
     const teaminfor = ref([]);
@@ -1369,7 +1368,7 @@
     };
     onMounted(async () => {
     try {
-        const teaminforResponse = await fetch(teaminfo);
+        const teaminforResponse = await fetch('/public/json/team_infor.json');
         teaminfor.value = await teaminforResponse.json();
     } catch (error) {
         console.error('Error fetching JSON data: ', error);
