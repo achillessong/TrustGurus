@@ -315,9 +315,9 @@
 
         <Testimonial class="py-14 lg:py-[100px]" :show-title="false"></Testimonial>
 
-        <section class="py-14 lg:py-[100px]">
+        <!-- <section class="py-14 lg:py-[100px]">
             <faq :show-title="false"></faq>
-        </section>
+        </section> -->
 
         <section class="py-14 dark:bg-gray-dark lg:py-[100px]">
             <div class="container">
@@ -497,8 +497,11 @@
     import { ref, onMounted} from 'vue';
     import BlogSlider from '@/components/BlogSlider.vue';
     import Testimonial from '@/components/Testimonial.vue';
-    import Faq from '@/components/Faq.vue';
     import { useAppStore } from '@/stores/index';
+    import leadersImp from '@/json/detail-ai.json';
+    import stepProcessImp from '@/json/stepProcessAI.json';
+    import expertiseImp from '@/json/expertiseAI.json';
+    import portfolioImp from '@/json/portfolio.json';
     const store = useAppStore();
     const jsonData = ref([]);
     const stepProcesses = ref([]);
@@ -506,10 +509,10 @@
     const portfolioes = ref([]);
     onMounted(async () => {
     try {
-        const leadersResponse = await fetch('../src/json/detail-ai.json');
-        const stepProcessesResponse = await fetch('../src/json/stepProcessAI.json');
-        const expertiseResponse = await fetch('../src/json/expertiseAI.json');
-        const portfolioesResponse = await fetch('../src/json/portfolio.json');
+        const leadersResponse = await fetch(leadersImp);
+        const stepProcessesResponse = await fetch(stepProcessImp);
+        const expertiseResponse = await fetch(expertiseImp);
+        const portfolioesResponse = await fetch(portfolioImp);
         jsonData.value = await leadersResponse.json();
         stepProcesses.value = await stepProcessesResponse.json();
         expertises.value = await expertiseResponse.json();

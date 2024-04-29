@@ -478,13 +478,14 @@
     </div>
 </template>
 <script setup lang="ts">
-    import { ref, onMounted} from 'vue';
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
+    import { ref, onMounted} from 'vue';
+
     const jsonData = ref([]);
     onMounted(async () => {
         try {
-            const response = await fetch('./src/json/blogs.json');
+            const response = await fetch('src/json/blogs.json');
             jsonData.value = await response.json();
         } catch (error) {
             console.error('Error fetching JSON data: ', error);

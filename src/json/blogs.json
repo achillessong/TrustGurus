@@ -78,7 +78,7 @@
     },
     {
         "id": "12",
-        "image": "/src/blogs/stupid/blog-3.PNG",
+        "image": "/src/blogs/stupid/blog-3.jpg",
         "category": "Backend Development",
         "title": "Ruby on Rails vs. Spring Boot: Which is Better in 2024?",
         "description": "When we mention back-end web frameworks, several options come to mind. However, Ruby on Rails and Spring Boot are top choices for many developers and it’s not hard to see why. These two software frameworks have various functionalities that aid in streamlining back-end development. They provide a platform for building server-side applications, database access, and interactions, and they handle routing effectively."

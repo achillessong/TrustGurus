@@ -314,10 +314,10 @@
         <blog-slider sub-title="Related articles"></blog-slider>
 
         <Testimonial class="py-14 lg:py-[100px]" :show-title="false"></Testimonial>
-
+<!-- 
         <section class="py-14 lg:py-[100px]">
             <faq :show-title="false"></faq>
-        </section>
+        </section> -->
 
         <section class="py-14 dark:bg-gray-dark lg:py-[100px]">
             <div class="container">

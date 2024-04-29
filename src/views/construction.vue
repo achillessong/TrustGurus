@@ -566,13 +566,13 @@
             </div>
         </section>
 
-        <section class="bg-black/[0.05] py-12 dark:bg-gray-dark lg:py-24">
+        <!-- <section class="bg-black/[0.05] py-12 dark:bg-gray-dark lg:py-24">
             <div class="container">
                 <div class="mx-auto lg:w-[730px]">
                     <faq type="construction"></faq>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="overflow-hidden py-12 lg:py-24">
             <div class="container">

@@ -1321,11 +1321,10 @@
 <script setup lang="ts">
     import { ref, onMounted} from 'vue';
     import emailjs from 'emailjs-com';
-    import Faq from '@/components/Faq.vue';
     import OfficeSwiper from '@/components/OfficeSwiper.vue';
+    import teaminfo from '@/json/team_infor.json';
     import { useAppStore } from '@/stores/index';
     const store = useAppStore();
-    const branches = ref([]);
     const teaminfor = ref([]);
     let formData = {
         name: '',
@@ -1370,9 +1369,7 @@
     };
     onMounted(async () => {
     try {
-        const response = await fetch('./src/json/branches.json');
-        const teaminforResponse = await fetch('./src/json/team_infor.json');
-        branches.value = await response.json();
+        const teaminforResponse = await fetch(teaminfo);
         teaminfor.value = await teaminforResponse.json();
     } catch (error) {
         console.error('Error fetching JSON data: ', error);

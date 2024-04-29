@@ -489,9 +489,9 @@
             <testimonial class="mx-auto max-w-[1440px] rounded-[32px] py-14 dark:bg-black md:py-20" type="modern-saas" :feedbacks="feedbacks"> </testimonial>
         </section>
 
-        <section class="bg-gradient-to-t from-white/[55%] to-transparent py-14 dark:bg-none lg:py-20">
+        <!-- <section class="bg-gradient-to-t from-white/[55%] to-transparent py-14 dark:bg-none lg:py-20">
             <faq type="modern-saas" :queries="faqs"></faq>
-        </section>
+        </section> -->
 
         <blog-slider
             class="dark:bg-white/[0.03] lg:py-20"

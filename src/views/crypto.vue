@@ -1143,9 +1143,9 @@
 
         <Testimonial class="py-14 lg:py-[100px]"></Testimonial>
 
-        <section class="bg-gradient-to-t from-white to-transparent py-12 dark:bg-none lg:py-24">
+        <!-- <section class="bg-gradient-to-t from-white to-transparent py-12 dark:bg-none lg:py-24">
             <faq></faq>
-        </section>
+        </section> -->
 
         <section class="py-12 dark:bg-gray-dark lg:py-24">
             <div class="container">
