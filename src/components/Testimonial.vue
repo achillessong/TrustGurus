@@ -145,7 +145,7 @@
     const jsonData = ref([]);
     onMounted(async () => {
     try {
-        const leadersResponse = await fetch('../src/json/testmonials.json');
+        const leadersResponse = await fetch('./public/json/testmonials.json');
         jsonData.value = await leadersResponse.json();
     } catch (error) {
         console.error('Error fetching JSON data: ', error);

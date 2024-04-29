@@ -197,7 +197,7 @@
 
     onMounted(async () => {
     try {
-        const response = await fetch('./src/json/counter.json');
+        const response = await fetch('/public/json/counter.json');
         jsonData.value = await response.json();
         console.log(jsonData.value);
     } catch (error) {

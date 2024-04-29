@@ -156,8 +156,8 @@
     const teaminfor = ref([]);
     onMounted(async () => {
     try {
-        const servicesResponse = await fetch('./src/json/categories.json');
-        const teaminofrResponse = await fetch('./src/json/team_infor.json');
+        const servicesResponse = await fetch('/public/json/categories.json');
+        const teaminofrResponse = await fetch('/public/json/team_infor.json');
        
         services.value = await servicesResponse.json();
         teaminfor.value = await teaminofrResponse.json();

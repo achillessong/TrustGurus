@@ -783,10 +783,10 @@
 
     onMounted(async () => {
     try {
-        const response = await fetch('./src/json/about_us.json');
-        const workingStepResponse = await fetch('./src/json/workingSteps.json');
-        const awardResponse = await fetch('./src/json/awards.json');
-        const leaderResponse = await fetch('./src/json/team.json');
+        const response = await fetch('/public/json/about_us.json');
+        const workingStepResponse = await fetch('/public/json/workingSteps.json');
+        const awardResponse = await fetch('/public/json/awards.json');
+        const leaderResponse = await fetch('/public/json/team.json');
         jsonData.value = await response.json();
         workingSteps.value = await workingStepResponse.json();
         awards.value = await awardResponse.json();
