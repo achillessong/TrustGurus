@@ -1,0 +1,111 @@
+[
+    {
+        "id": "1",
+        "subtitle": "Careers",
+        "title": "Join the #1 Creative Agency",
+        "description1": "Find out everything you need to know and more about how we create our business process models.",
+        "description2": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "image":"/assets/images/creative-agency.png"
+    },
+    {
+        "id": "2",
+        "subtitle": "Our Culture",
+        "title": "Be Great. Do Good. Have Fun.",
+        "image1": "/assets/images/gallery-1.png",
+        "image2": "/assets/images/gallery-2.png",
+        "image3": "/assets/images/gallery-3.png",
+        "image4": "/assets/images/gallery-4.png",
+        "image5": "/assets/images/gallery-5.png"
+    },
+    {
+        "id": "3",
+        "subtitle": "Our Amazing Perks",
+        "title": "Great benefits of working at TrustGurus",
+        "perk1": "Health Insurance",
+        "perk2": "Employee Allowance",
+        "perk3": "Perks & Bonuses",
+        "perk4": "4 weeks PTO",
+        "perk5": "Flexible Work Environment",
+        "perk6": "Healthy Snacks"  
+    },
+    {
+        "id": "4",
+        "subtitle": "Open Positions",
+        "title": "Wake Up To A Better Future"
+    },
+    {
+        "id": "5",
+        "subtitle": "Meet Our Team",
+        "title": "Creative Minds"
+    },
+    {
+        "id": "3",
+        "image": "/assets/images/blog3.png",
+        "category": "SEO Marketing",
+        "title": "What is SEO (Search Engine Optimization)?",
+        "description": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines."
+    },
+    {
+        "id": "1",
+        "image": "/assets/images/blog1.png",
+        "category": "UI/UX Design",
+        "title": "Simple & constructive methods to improve your visual/UI design",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+        "id": "2",
+        "image": "/assets/images/blog2.png",
+        "category": "Project Management",
+        "title": "Why is JIRA important for managing projects?",
+        "description": "Jira works well for Agile development projects for many reasons, including the ability to create Kanban and Scrum boards with sprint planning and issue time estimation capabilities."
+    },
+    {
+        "id": "3",
+        "image": "/assets/images/blog3.png",
+        "category": "SEO Marketing",
+        "title": "What is SEO (Search Engine Optimization)?",
+        "description": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines."
+    },
+    {
+        "id": "1",
+        "image": "/assets/images/blog1.png",
+        "category": "UI/UX Design",
+        "title": "Simple & constructive methods to improve your visual/UI design",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+        "id": "2",
+        "image": "/assets/images/blog2.png",
+        "category": "Project Management",
+        "title": "Why is JIRA important for managing projects?",
+        "description": "Jira works well for Agile development projects for many reasons, including the ability to create Kanban and Scrum boards with sprint planning and issue time estimation capabilities."
+    },
+    {
+        "id": "3",
+        "image": "/assets/images/blog3.png",
+        "category": "SEO Marketing",
+        "title": "What is SEO (Search Engine Optimization)?",
+        "description": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines."
+    },
+    {
+        "id": "1",
+        "image": "/assets/images/blog1.png",
+        "category": "UI/UX Design",
+        "title": "Simple & constructive methods to improve your visual/UI design",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+        "id": "2",
+        "image": "/assets/images/blog2.png",
+        "category": "Project Management",
+        "title": "Why is JIRA important for managing projects?",
+        "description": "Jira works well for Agile development projects for many reasons, including the ability to create Kanban and Scrum boards with sprint planning and issue time estimation capabilities."
+    },
+    {
+        "id": "3",
+        "image": "/assets/images/blog3.png",
+        "category": "SEO Marketing",
+        "title": "What is SEO (Search Engine Optimization)?",
+        "description": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines."
+    }
+]

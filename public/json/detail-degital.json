@@ -1,0 +1,22 @@
+[
+    
+    {
+        "id": "1",
+        "title": "Digital Marketing",
+        "description": "Digital marketing is an essential tool for modern businesses, enabling them to reach a broader audience, build brand awareness, engage customers, and drive sustainable growth.",
+        "buttonDescripton": "Book A Free Consultation",
+        "image":"/src/portfolioes/service-marketing.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Degital Process",
+        "description": "Keep your users at the center of your degital marketing process with our team",
+        "subDescription": "We combine our team’s depth of experience in degital marketing, our client’s intimate knowledge of the industries they serve and insights uncovered through the discoveries we make.",
+        "location":"Coolumburra, Australia",
+        "image":"/assets/images/canada-branch.png"
+    },
+    {
+        "id": "3",
+        "description": "Our Design Expertise"
+    }
+]

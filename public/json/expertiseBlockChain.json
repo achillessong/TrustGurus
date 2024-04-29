@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "no":"01",
+        "title": "Design",
+        "description": "Our team has a strong design expertise, ensuring that our blockchain solutions are well-architected and optimized for efficiency and scalability."
+    },
+    {
+        "id": "2",
+        "no":"02",
+        "title": "Implementation",
+        "description": "With our implementation prowess, we bring our blockchain designs to life, transforming concepts into functional and secure systems."
+    },
+    {
+        "id": "3",
+        "no":"03",
+        "title": "Integration",
+        "description": "Our team excels in integrating blockchain technology with existing systems and processes, seamlessly bridging the gap between traditional and decentralized solutions."
+    },
+    {
+        "id": "4",
+        "no":"04",
+        "title": "Security",
+        "description": "Security is paramount in blockchain, and our team has a deep understanding of cryptographic protocols and best practices to safeguard data and transactions."
+    },
+    {
+        "id": "5",
+        "no":"05",
+        "title": "Innovation",
+        "description": "Innovation is at the core of our blockchain development experience. We constantly push boundaries, exploring new use cases and leveraging emerging technologies to create cutting-edge solutions."
+    }
+]
