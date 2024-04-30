@@ -1,0 +1,19 @@
+[
+    
+    {
+        "id": "1",
+        "title": "Your website,",
+        "subTitle": "growth reimagined",
+        "description": "TrustGurus is fully equipped with everything you need to build a high performing website for your SaaS."
+    },
+    {
+        "id": "2",
+        "title": "Develop Process",
+        "description": "To develop a game that keeps your users at the center of your process.",
+        "subDescription": "We combine our team’s depth of experience in ganme development, our client’s intimate knowledge of the industries they serve and insights uncovered through the discoveries we make."
+    },
+    {
+        "id": "3",
+        "description": "Our Develop Expertise"
+    }
+]

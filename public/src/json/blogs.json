@@ -1,0 +1,100 @@
+[
+    {
+        "id": "1",
+        "image": "/src/blogs/ai-3.webp",
+        "category": "AI",
+        "title": "Our new report on AI's opportunity for developing countries",
+        "description": "We’re releasing “AI Sprinters,” a new report that provides a roadmap for developing countries to take advantage of AI’s potential. We’re also providing a $15 million Google.org commitment to support AI skills training."
+    },
+    {
+        "id": "2",
+        "image": "/src/blogs/blockchain.jpg",
+        "category": "Block Chain",
+        "title": "How Is BlockChain Transforming The Automobile Industry?",
+        "description": "It’s been a decade since the first application of blockade technology which is now involved in revolutionary development. Initially, the block was associated only with the Bitcoin engine and other crypto-currencies. Then his influence reached the financial, trade and media sectors in full. Now, the blockbuster will lead the new era of the automotive industry."
+    },
+    {
+        "id": "3",
+        "image": "/src/blogs/achilles/blog-three.jpg",
+        "category": "Game Development",
+        "title": "Dynamics of Online Slots Games Conversion in Indonesia",
+        "description": "Developments in technology and the internet have brought about major changes in the gambling industry. In this digital era, online slot games have become one of the most popular forms of entertainment in Indonesia. The dynamics of conversion of online slots games in Indonesia reflects a significant transformation in gambling behavior and people’s preferences."
+    },
+    {
+        "id": "4",
+        "image": "/src/blogs/teddy/blog-one.jpg",
+        "category": "AI",
+        "title": "The Impact of AI-Driven Development on Software Innovation",
+        "description": "Artificial Intelligence (AI) has become a driving force in transforming various industries, and software development is no exception. AI-driven development is changing the way software is designed, built, and deployed, leading to groundbreaking innovations in the tech world. In this blog, we will delve into the profound impact of AI on software innovation, explore the advantages it brings to the development process, and discuss its future prospects in the ever-evolving tech landscape."
+    },
+    {
+        "id": "5",
+        "image": "/src/blogs/ai2-1.jpg",
+        "category": "AI",
+        "title": "New study validates the business value and opportunity of AI",
+        "description": "As AI becomes more woven into society, its economic impact will be significant, and organizations are just starting to understand the extent of what’s possible. For companies to invest in AI though, it must make good business sense. Business leaders and decision makers need to understand the industry and line-of-business use cases that are best positioned to drive value within their organizations, what the return on investment will be, what time to value to expect, and how to get started. In short, they need help demystifying the business case for AI."
+    },
+    {
+        "id": "6",
+        "image": "/src/blogs/achilles/blog-four.png",
+        "category": "Game Development",
+        "title": "Submissions open for Godot 2019 showreel",
+        "description": "Are you proud of your Godot-made game or tool (published or work in progress) and would you like us to showcase it in Godot’s 2019 showreel? Please send us a short video (10-15 secs) for us to include it!"
+    },
+    {
+        "id": "7",
+        "image": "/src/blogs/blockchain2.png",
+        "category": "Block Chain",
+        "title": "Top 5 ways to Integrate Bitcoin Payment Solutions into eCommerce Site",
+        "description": "Bitcoin is becoming more and more common among the retailers and has established a global footprint. Today, many retailers are offering BTC as a payment option in the checkout process. According to a study, there are more than 80,000 modern retailers who have started accepting Bitcoin – the digital currency for payments. Bitcoin does not have its limits to online business offline businesses are also start accepting Bitcoin as a payment method."
+    },
+    {
+        "id": "8",
+        "image": "/src/blogs/teddy/blog-two.jpg",
+        "category": "Web Development",
+        "title": "Next.js SEO for Developers – How to Build Highly Performant Apps with Next",
+        "description": "Next.js is a popular React-based web framework that has gained popularity and a growing community in recent years. It's a powerful tool for building fast and SEO-friendly web applications with dynamic pages that work great on mobile devices."
+    },
+    {
+        "id": "9",
+        "image": "/src/blogs/teddy/blog-three.png",
+        "category": "Frontend Development",
+        "title": "Frontend Optimization - 9 Tips to Improve Web Performance",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+        "id": "10",
+        "image": "/src/blogs/ai-1.webp",
+        "category": "AI",
+        "title": "New ways to search in 2024",
+        "description": "In today's digital world, there are millions of websites accessed every day for a variety of reasons. Unfortunately, many of these websites are clunky and bothersome to use. Poorly optimized websites are plagued with a variety of issues including slow loading times, being non-mobile ready, browser incompatibilities, and so on."
+    },
+    {
+        "id": "11",
+        "image": "/src/blogs/stupid/blog-1.PNG",
+        "category": "Backend Development",
+        "title": "Top 5 Agile Testing Practices for the Future",
+        "description": "Delivering quality software at a faster pace was the end goal of the agile approach in the beginning. But today the approach has expanded to other aspects of software development as well. Agile testing is a real thing these days. It is an integral part of the software development process that is helping entrepreneurs build high-quality software products that are free of bugs and other issues."
+    },
+    {
+        "id": "12",
+        "image": "/src/blogs/stupid/blog-3.PNG",
+        "category": "Backend Development",
+        "title": "Ruby on Rails vs. Spring Boot: Which is Better in 2024?",
+        "description": "When we mention back-end web frameworks, several options come to mind. However, Ruby on Rails and Spring Boot are top choices for many developers and it’s not hard to see why. These two software frameworks have various functionalities that aid in streamlining back-end development. They provide a platform for building server-side applications, database access, and interactions, and they handle routing effectively."
+    },
+    {
+        "id": "13",
+        "image": "/src/blogs/flutter.webp",
+        "category": "App Development",
+        "title": "Google announces Flutter support for Windows",
+        "description": "Google announced Flutter back in 2015 as a cross-platform UI that allows developers to use a single codebase to build UIs for native Android and iOS apps, web apps, and desktop."
+    },
+    {
+        "id": "14",
+        "image": "/src/blogs/stupid/blog-4.PNG",
+        "category": "Backend Development",
+        "title": "Clean Code in Python: Good vs. Bad Practices Examples",
+        "description": "In this guide, we’ll delve deeper into the concept of “Clean Code” in Python, contrasting examples of good and bad practices. This comparison will illustrate how clean code principles can transform code from being hard to maintain and understand to being clear and efficient."
+    }
+]

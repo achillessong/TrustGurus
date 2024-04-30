@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "Define Goals and Requirements",
+        "description": "We start by clearly defining the goals and requirements of the AI project."
+    },
+    {
+        "id": "2",
+        "title": "Collect and Prepare Data",
+        "description": "Next, we gather and prepare the necessary data required for training the AI model."
+    },
+    {
+        "id": "3",
+        "title": "Develop and Train the Model",
+        "description": "We design and train the AI model using the collected data, refining it to achieve the desired performance."
+    },
+    {
+        "id": "4",
+        "title": "Evaluate and Validate the Model",
+        "description": "We evaluate the model's performance and validate its accuracy by testing it against different datasets and real-world scenarios."
+    },
+    {
+        "id": "5",
+        "title": "Deploy and Monitor the Model",
+        "description": "Finally, we deploy the AI model into the intended environment and continuously monitor its performance, making adjustments as needed."
+    }
+]

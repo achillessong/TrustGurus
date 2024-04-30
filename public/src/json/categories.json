@@ -1,0 +1,38 @@
+[  
+    {
+        "id": "1",
+        "category": "Blockchain",
+        "description": "We provide services with the best designs than our designer team for your business.",
+        "link": "blockchain"
+    },
+    {
+        "id": "2",
+        "category": "AI Development",
+        "description": "We provide services with the best designs than our designer team for your business.",
+        "link": "ai"
+    },
+    {
+        "id": "3",
+        "category": "Web Development",
+        "description": "We help develop company websites to be more professional and attractive",
+        "link": "web"
+    },
+    {
+        "id": "4",
+        "category": "Game Development",
+        "description": "We can develop several 2D and 3D games such as slot, match 3 game and racing game for your business. ",
+        "link": "game"
+    },
+    {
+        "id": "5",
+        "category": "Digital Marketing",
+        "description": "We also help you market your products through an online marketplace.",
+        "link": "marketing"
+    },
+    {
+        "id": "6",
+        "category": "UI/UX Design",
+        "description": "We provide services with the best designs than our designer team for your business.",
+        "link": "design"
+    }  
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "no":"01",
+        "title": "Clear and straightforward",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    {
+        "id": "2",
+        "no":"02",
+        "title": "Visually appealing",
+        "description": "We pay a lot of attention to the visual solution so that it is also attractive and in line with modern market requirements in addition to being comfortable to use."
+    },
+    {
+        "id": "3",
+        "no":"03",
+        "title": "User-friendly",
+        "description": "Our design solutions are aesthetically pleasing, user-friendly, and practical so that users will feel attention and a gentle attitude in every pixel."
+    },
+    {
+        "id": "4",
+        "no":"04",
+        "title": "Enhanced Productivity",
+        "description": "We significantly reduce the task completion time, allowing users to do their jobs in fewer clicks, thus contributing to better overall productivity."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "tab": "all",
+        "description": "All Positions"
+    },
+    {
+        "id": "2",
+        "tab": "design",
+        "description": "UI/UX Design"
+    },
+    {
+        "id": "3",
+        "tab": "website",
+        "description": "Website Development"
+    },
+    {
+        "id": "4",
+        "tab": "app",
+        "description": "Application Development"
+    },
+    {
+        "id": "5",
+        "tab": "marketing",
+        "description": "Digital Marketing"
+    },
+    {
+        "id": "6",
+        "tab": "game",
+        "description": "Game Development"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "title": "award1",
+        "description": "/assets/images/award1.png"
+    },
+    {
+        "title": "award2",
+        "description":"/assets/images/award2.png"
+    },
+    {
+        "title": "award3",
+        "description":"/assets/images/award3.png"
+    },
+    {
+        "title": "award4",
+        "description":"/assets/images/award4.png"
+    },
+    {
+        "title": "award5",
+        "description":"/assets/images/award5.png"
+    },
+    {
+        "title": "award6",
+        "description":"/assets/images/award6.png"
+    },
+    {
+        "title": "award7",
+        "description":"/assets/images/award7.png"
+    },
+    {
+        "title": "award8",
+        "description":"/assets/images/award8.png"
+    }
+]

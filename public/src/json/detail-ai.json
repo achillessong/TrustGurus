@@ -1,0 +1,22 @@
+[
+    
+    {
+        "id": "1",
+        "title": "Artificial Intelligence",
+        "description": "Our team's AI is a cutting-edge technology that combines advanced algorithms and machine learning to provide innovative solutions and enhance efficiency across various industries.",
+        "buttonDescripton": "Book A Free Consultation",
+        "image":"/src/portfolioes/service-ai.jpg"
+    },
+    {
+        "id": "2",
+        "title": "AI Develop Process",
+        "description": "Place user experience at the forefront of our AI development process.",
+        "subDescription": "Our team's AI development process involves researching, designing, training, testing, and refining the AI models to create intelligent systems that can address complex problems and deliver valuable insights.",
+        "location":"Coolumburra, Australia",
+        "image":"/assets/images/canada-branch.png"
+    },
+    {
+        "id": "3",
+        "description": "Our Develop Expertise"
+    }
+]
