@@ -1,10 +1,10 @@
 import { defineStore } from 'pinia';
 export const useAppStore = defineStore('app', {
     state: () => ({
-        theme: 'light',
+        theme: 'dark',
         isShowMainLoader: true,
         direction: 'ltr',
-        teamname: 'Vatad'
+        teamname: 'Trust-Gurus'
     }),
 
     actions: {

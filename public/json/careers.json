@@ -2,9 +2,9 @@
     {
         "id": "1",
         "subtitle": "Careers",
-        "title": "Join the #1 Creative Agency",
-        "description1": "Find out everything you need to know and more about how we create our business process models.",
-        "description2": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "title": "Join the ",
+        "description1": "Find out everything you need to know and more and our team's careers",
+        "description2": "Our team excels in delivering innovative solutions, leveraging their diverse skills, expertise, and collaborative approach to exceed client expectations.",
         "image":"/assets/images/creative-agency.png"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": "3",
         "subtitle": "Our Amazing Perks",
-        "title": "Great benefits of working at TrustGurus",
+        "title": "Great benefits of working ",
         "perk1": "Health Insurance",
         "perk2": "Employee Allowance",
         "perk3": "Perks & Bonuses",

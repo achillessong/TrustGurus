@@ -137,7 +137,7 @@
                 <div class="flex flex-col items-center justify-between text-center font-bold dark:text-white md:flex-row">
                     <div>
                         Copyright© {{ new Date().getFullYear() }}
-                        <a href="javascript:" class="text-primary transition hover:text-secondary">TrustGurus Technologies Pvt. Ltd.</a>
+                        <a href="javascript:" class="text-primary transition hover:text-secondary">Trust-Gurus</a>
                     </div>
                     <div>
                         Need help? Visit the

@@ -1,6 +1,7 @@
 [
     {
         "id": "1",
+        "icon" : "assets/svg-icons/united-states-flag-icon.svg",
         "image": "/assets/images/ofc.png",
         "location": "164 Brighton Ave, Allston, Maine, U.S.",
         "phoneNumber": "+1 843 268 4699",

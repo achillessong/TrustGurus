@@ -1306,12 +1306,11 @@
                     <div class="heading mb-6">
                         <h4>Start your free trial</h4>
                     </div>
-                    <p class="text-lg font-bold">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                     <div class="mt-12 flex items-center justify-between gap-4 font-extrabold sm:gap-7">
-                        <router-link to="/" class="btn w-full bg-secondary text-base capitalize text-white hover:bg-gray/10 hover:text-gray sm:text-lg">
+                        <router-link to="/" class="btn w-full bg-gray/10 text-gray capitalize text-white hover:bg-secondary hover:text-base sm:text-lg">
                             Get Started
                         </router-link>
-                        <router-link to="/about-us" class="btn w-full bg-gray/10 text-base capitalize text-gray sm:text-lg"> Learn More </router-link>
+                        <router-link to="/about-us" class="btn w-full bg-gray/10 text-gray capitalize text-white hover:bg-secondary hover:text-base sm:text-lg"> Learn More </router-link>
                     </div>
                 </div>
             </div>

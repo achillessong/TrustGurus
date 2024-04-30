@@ -347,7 +347,7 @@
                     <div class="order-2 md:order-1 md:col-span-2 lg:col-auto">
                         <div class="heading mb-5 text-center ltr:md:text-left rtl:md:text-right">
                             <h6>{{jsonData[0]?.subtitle}}</h6>
-                            <h4>{{jsonData[0]?.title}}</h4>
+                            <h4>{{jsonData[0]?.title}} {{store.teamname}}</h4>
                         </div>
                         <div class="text-center font-semibold ltr:md:text-left rtl:md:text-right">
                             <p class="pb-5">{{jsonData[0]?.description1}}</p>
@@ -474,7 +474,7 @@
             <div class="container">
                 <div class="heading text-center">
                     <h6>{{jsonData[2]?.subtitle}}</h6>
-                    <h4>{{jsonData[2]?.title}}</h4>
+                    <h4>{{jsonData[2]?.title}} {{store.teamname}}</h4>
                 </div>
                 <div class="grid gap-[30px] sm:grid-cols-2 lg:grid-cols-3">
                     <div data-aos="fade-up" data-aos-duration="1000">
@@ -776,7 +776,7 @@
                                         </div>
                                     </div>
                                     <a
-                                        href="javascript:"
+                                        href="/contact-us"
                                         class="flex h-[45px] w-[45px] items-center justify-center rounded-full bg-[#F3F4F6] text-black transition hover:bg-secondary hover:text-white rtl:rotate-180 dark:bg-black dark:text-white"
                                     >
                                         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
