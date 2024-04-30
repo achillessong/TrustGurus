@@ -438,7 +438,7 @@
                                 <button
                                     type="button"
                                     class="rounded-[10px] bg-gray/5 py-4 px-5 leading-5 transition hover:bg-secondary hover:text-white"
-                                    @click="activeTab = portfolioType?.tab"
+                                    @click="calculateActive(portfolioType?.tab)"
                                 >
                                     {{portfolioType?.description}}
                                 </button>
@@ -446,30 +446,50 @@
                         </template>
                     </ul>
                 </div>
-                <div class="projects mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-                    <template v-for="portfolio in portfolioes.slice(0, showTab * 6)">
-                        <div class="project" :class="activeTab === 'all' || portfolio?.type.includes(activeTab) ? 'block' : 'hidden'">
-                            <div
-                                class="relative rounded-3xl border border-transparent bg-white drop-shadow-[5px_10px_80px_rgba(119,128,161,0.15)] transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark dark:drop-shadow-none"
-                            >
-                                <router-link :to="`/portfolio-detail/${portfolio?.id}`" class="absolute top-0 h-full w-full ltr:left-0 rtl:right-0"></router-link>
-                                <img :src="portfolio?.image" alt="project-1" class="h-52 w-full rounded-t-3xl object-cover" />
-                                <div class="p-5 text-sm font-bold">
-                                    <h6 class="mb-1 text-black dark:text-white">{{portfolio?.title}}</h6>
-                                    <p>{{portfolio?.category}}</p>
+                <template v-if="activeTab === 'all'">
+                    <div class="projects mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+                        <template v-for="portfolio in portfolioes.slice(0, showTab * 6)">
+                            <div class="project" :class="activeTab === 'all' || portfolio?.type.includes(activeTab) ? 'block' : 'hidden'">
+                                <div
+                                    class="relative rounded-3xl border border-transparent bg-white drop-shadow-[5px_10px_80px_rgba(119,128,161,0.15)] transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark dark:drop-shadow-none"
+                                >
+                                    <router-link :to="`/portfolio-detail/${portfolio?.id}`" class="absolute top-0 h-full w-full ltr:left-0 rtl:right-0"></router-link>
+                                    <img :src="portfolio?.image" alt="project-1" class="h-52 w-full rounded-t-3xl object-cover" />
+                                    <div class="p-5 text-sm font-bold">
+                                        <h6 class="mb-1 text-black dark:text-white">{{portfolio?.title}}</h6>
+                                        <p>{{portfolio?.category}}</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </template>
-                </div>
-                <div class="flex justify-end">
-                    <button class="btn mt-5" @click="showTab++" v-if="showTab < portfolioes.length/6">
-                        Show more
-                    </button>
-                    <button class="btn mt-5" @click="showTab = 1" v-else>
-                        Show less
-                    </button>
-                </div>
+                        </template>
+                    </div>
+                    <div class="flex justify-end">
+                        <button class="btn mt-5" @click="showTab++" v-if="showTab < portfolioes.length/6">
+                            Show more
+                        </button>
+                        <button class="btn mt-5" @click="showTab = 1" v-else>
+                            Show less
+                        </button>
+                    </div>
+                </template>
+                <template v-else>
+                    <div class="projects mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+                        <template v-for="portfolio in portfolioes">
+                            <div class="project" :class="activeTab === 'all' || portfolio?.type.includes(activeTab) ? 'block' : 'hidden'">
+                                <div
+                                    class="relative rounded-3xl border border-transparent bg-white drop-shadow-[5px_10px_80px_rgba(119,128,161,0.15)] transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark dark:drop-shadow-none"
+                                >
+                                    <router-link :to="`/portfolio-detail/${portfolio?.id}`" class="absolute top-0 h-full w-full ltr:left-0 rtl:right-0"></router-link>
+                                    <img :src="portfolio?.image" alt="project-1" class="h-52 w-full rounded-t-3xl object-cover" />
+                                    <div class="p-5 text-sm font-bold">
+                                        <h6 class="mb-1 text-black dark:text-white">{{portfolio?.title}}</h6>
+                                        <p>{{portfolio?.category}}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </template>
+                    </div>
+                </template>
             </div>
         </section>
     </div>
@@ -478,9 +498,24 @@
     import { ref, onMounted} from 'vue';
     import { useAppStore } from '@/stores/index';
     import Portfolio from '@/components/Portfolio.vue';
+import { prototype } from 'apexcharts';
     const store = useAppStore();
     const portfolioTypes = ref([]);
     const portfolioes = ref([]);
+    const activeTab = ref('all');
+    const showTab= ref(1);
+    const count = ref(0);
+
+    const calculateActive = (tab) => {
+        activeTab.value = tab;
+        // console.log(portfolioes.value);
+        // for(const portfolio in portfolioes.value){
+        //     if(portfolio.va?.type.includes(activeTab.value)){
+        //         count.value ++;
+        //     }
+        // }
+        // console.log(count.value);
+    };
     onMounted(async () => {
     try {
         const portfolioTypesResponse = await fetch('/json/portfolioTypes.json');
@@ -492,6 +527,4 @@
     }
     });
 
-    const activeTab = ref('all');
-    const showTab= ref(1);
 </script>
