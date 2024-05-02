@@ -145,7 +145,7 @@ const routes: RouteRecordRaw[] = [
     {
         path: '/portfolio-detail/22',
         name: 'portfolio-detail/22',
-        component: () => import(/* webpackChunkName: "portfolio" */ '../views/portfolio/detail20.vue'),
+        component: () => import(/* webpackChunkName: "portfolio" */ '../views/portfolio/detail22.vue'),
         meta: { title: 'Portfolio Detail | TrustGurus – Tailwind CSS Multipurpose Landing Templates' },
     },
     {
