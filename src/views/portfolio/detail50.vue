@@ -5,11 +5,11 @@
                 <div class="container">
                     <div class="items-center py-10 md:flex md:h-[400px] md:py-0">
                         <div class="heading relative mb-0 md:w-[725px]">
-                            <h4 class="!text-white">Quality Circle International Limited</h4>
+                            <h4 class="!text-white">Bonokey</h4>
                             <p
                                 class="relative mt-7 font-medium text-[#BBC0D0] before:absolute before:top-0 before:h-full before:w-1 before:bg-primary ltr:pl-8 ltr:before:left-0 rtl:pr-8 rtl:before:right-0"
                             >
-                            The website highlights their services, including auditing, consulting, smart software, and e-learning.The website highlights their services, including auditing, consulting, smart software, and e-learning.
+                            At Bonokey, our mission is to empower people with easy access to the best lending options in the nation.
                             </p>
                         </div>
                     </div>
@@ -213,28 +213,38 @@
                         </ul>
                     </div>
                 </div>
-                
-                <div class="pb-14 md:pb-20 mt-20">
+                <div class="py-14 md:py-20">
+                    <h3 class="mb-7 text-xl font-extrabold text-black dark:text-white sm:text-2xl">Features and Functionalities</h3>
+                    <ul class="list-disc space-y-4 font-semibold leading-6 ltr:ml-[18px] rtl:mr-[18px] md:text-lg ltr:md:pl-4 rtl:md:pr-4">
+                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                        <li>Pellentesque sagittis risus sed accumsan efficitur.</li>
+                        <li>Curabitur non tortor semper, tincidunt augue at, luctus diam.</li>
+                        <li>Phasellus vitae metus nec nulla sagittis lobortis sit amet vitae dolor.</li>
+                        <li>Fusce lobortis justo pellentesque quam facilisis scelerisque.</li>
+                        <li>Phasellus id arcu dapibus, facilisis ipsum nec, faucibus urna.</li>
+                        <li>Nullam fermentum ipsum sit amet justo convallis, quis iaculis massa finibus.</li>
+                        <li>Vivamus eget dui pulvinar, aliquet magna eget, dignissim felis.</li>
+                    </ul>
+                </div>
+                <div class="pb-14 md:pb-20">
                     <h3 class="mb-7 text-xl font-extrabold text-black dark:text-white sm:text-2xl">Description</h3>
                     <p
-                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >Quality Circle International Limited also emphasizes their consulting services, tailored to each organization's specific needs. 
+                        class="relative font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >
+                    Compare over 160 credit cards, personal loans and financing deals from top Saudi banks all in one place.
+                    </p>
+                    <p
+                        class="relative font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >
+                    Get live, personalized recommendations from our supportive financial advisors based on your goals and profile.
                     </p>
                     <p
                         class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
                     >We also offer informative resources like expert guides to using credit responsibly and building your credit score over time.
                     </p>
-                    <p
-                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >Their smart software solutions include verification software, gap audit software, and process auditing software.
-                    </p>
-                    <p
-                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >The website mentions the GoSMART ACADEMY, which appears to be their training division. 
-                    </p>
                 </div>
                 <div class="py-[30px] sm:py-[50px]">
-                    <img src="/src/portfolioes/qualitycircleint.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
+                    <img src="/src/portfolioes/em-8.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
                 </div>
             </div>
         </section>

@@ -515,7 +515,6 @@
 
         emailjs.send(serviceId, templateId, templateParams, userId)
         .then((response) => {
-            console.log('Email sent!', response);
             // Reset the form after successful submission
             formData = {
                 name: '',

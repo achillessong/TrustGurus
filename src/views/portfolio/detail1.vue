@@ -27,27 +27,7 @@
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <svg width="25" height="30" viewBox="0 0 25 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M15.1825 29.9999L7.06445 21.9351L11.5511 17.3701L24.206 29.9999H15.1825Z"
-                                            fill="#02539A"
-                                        />
-                                        <path
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M6.9668 21.9415L15.0127 13.8955H24.0582L11.5412 26.4125L6.9668 21.9415Z"
-                                            fill="#45D1FD"
-                                            fill-opacity="0.85"
-                                        />
-                                        <path
-                                            fill-rule="evenodd"
-                                            clip-rule="evenodd"
-                                            d="M0 14.9232L4.56814 19.4882L24.0564 0H14.964L0 14.9232Z"
-                                            fill="#45D1FD"
-                                        />
-                                    </svg>
+                                    <img src="/public/src/skills/icons8-unity-96.png" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li

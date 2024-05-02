@@ -5,11 +5,13 @@
                 <div class="container">
                     <div class="items-center py-10 md:flex md:h-[400px] md:py-0">
                         <div class="heading relative mb-0 md:w-[725px]">
-                            <h4 class="!text-white">Quality Circle International Limited</h4>
+                            <h4 class="!text-white">Book pet-friendly hotels</h4>
                             <p
                                 class="relative mt-7 font-medium text-[#BBC0D0] before:absolute before:top-0 before:h-full before:w-1 before:bg-primary ltr:pl-8 ltr:before:left-0 rtl:pr-8 rtl:before:right-0"
                             >
-                            The website highlights their services, including auditing, consulting, smart software, and e-learning.The website highlights their services, including auditing, consulting, smart software, and e-learning.
+                                Axie Infinity is a non-fungible token-based online video game developed by Vietnamese studio Sky Mavis, known for its in-game
+                                economy which uses Ethereum-based cryptocurrencies. Players of Axie Infinity collect and mint NFTs which represent
+                                axolotl-inspired digital pets known as Axies.
                             </p>
                         </div>
                     </div>
@@ -213,28 +215,27 @@
                         </ul>
                     </div>
                 </div>
-                
-                <div class="pb-14 md:pb-20 mt-20">
+                <div class="py-14 md:py-20">
+                    
+                </div>
+                <div class="pb-14 md:pb-20">
                     <h3 class="mb-7 text-xl font-extrabold text-black dark:text-white sm:text-2xl">Description</h3>
                     <p
-                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >Quality Circle International Limited also emphasizes their consulting services, tailored to each organization's specific needs. 
+                        class="relative font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >
+                        Mosaic is a finance tool for making better business moves — automating data aggregation, analysis, and financial forecasting. In late
+                        2021, we partnered to help them take charge of the Strategic Finance category with a new brand, voice, and web experience. To connect
+                        with their audience of finance leaders they needed to look and feel like a polished, confident, no-nonsense brand.
                     </p>
                     <p
                         class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >We also offer informative resources like expert guides to using credit responsibly and building your credit score over time.
-                    </p>
-                    <p
-                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >Their smart software solutions include verification software, gap audit software, and process auditing software.
-                    </p>
-                    <p
-                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >The website mentions the GoSMART ACADEMY, which appears to be their training division. 
+                    >
+                        Easily recognised by its expert tone of voice and chess-styled visuals, Mosaic takes after its ideal user: the less meetings, more doing
+                        kinda folk. Tasked with bringing this new brand to life online, we built an experience to catch the eye of startups everywhere.
                     </p>
                 </div>
-                <div class="py-[30px] sm:py-[50px]">
-                    <img src="/src/portfolioes/qualitycircleint.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
+                <div>
+                    <img src="/src/portfolioes/em-2.png" alt="portfolio-img-4" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
                 </div>
             </div>
         </section>

@@ -304,16 +304,14 @@
                 <div class="pb-12">
                     <h4 class="pb-5 text-xl font-bold text-black dark:text-white sm:text-2xl">Privacy Policy</h4>
                     <p class="pb-5 text-lg font-medium">
-                        At www.padmemarketplace.com, accessible at www.padmemarketplace.com, one of our main priorities is the privacy of our visitors. This
+                        At https://trust-gurus.vercel.app, one of our main priorities is the privacy of our visitors. This
                         Privacy Policy document contains types of information that is collected and recorded by www.TrustGurus.com and how we use it.
                     </p>
                     <p class="pb-5 text-lg font-medium">
-                        If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at
-                        info@plruk.com
+                        If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at hidev237@gmail.com
                     </p>
                     <p class="text-lg font-medium">
-                        This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that
-                        they shared and/or collect in www.padmemarketplace.com. This policy is not applicable to any information collected offline or via
+                        This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in www.padmemarketplace.com. This policy is not applicable to any information collected offline or via
                         channels other than this website.
                     </p>
                 </div>
@@ -321,24 +319,20 @@
                     <h4 class="pb-5 text-xl font-bold text-black dark:text-white sm:text-2xl">Consent</h4>
                     <p class="pb-5 text-lg font-medium">By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
                     <p class="text-lg font-medium">
-                        Most interactive websites use cookies to let us retrieve the user's details for each visit. Cookies are used by our website to enable
-                        the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may
+                        Most interactive websites use cookies to let us retrieve the user's details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may
                         also use cookies.
                     </p>
                 </div>
                 <div class="pb-12">
                     <h4 class="pb-5 text-xl font-bold text-black dark:text-white sm:text-2xl">Information we collect</h4>
                     <p class="pb-5 text-lg font-medium">
-                        The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at
-                        the point we ask you to provide your personal information.
+                        The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
                     </p>
                     <p class="pb-5 text-lg font-medium">
-                        If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents
-                        of the message and/or attachments you may send us, and any other information you may choose to provide.
+                        If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
                     </p>
                     <p class="pb-5 text-lg font-medium">
-                        When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email
-                        address, and telephone number.
+                        When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
                     </p>
                 </div>
                 <div class="pb-12">
@@ -375,24 +369,20 @@
                 <div class="pb-12">
                     <h4 class="pb-5 text-xl font-bold text-black dark:text-white sm:text-2xl">Links to Other Sites/Apps</h4>
                     <p class="text-lg font-medium">
-                        Our Website links to other websites/Websites that may collect personally identifiable information about you. Mntra is not responsible
-                        for the privacy practices or the content of those linked websites/Websites.
+                        Our Website links to other websites/Websites that may collect personally identifiable information about you. Mntra is not responsible for the privacy practices or the content of those linked websites/Websites.
                     </p>
                 </div>
                 <div class="pb-12">
                     <h4 class="pb-5 text-xl font-bold text-black dark:text-white sm:text-2xl">Security Precautions</h4>
                     <p class="text-lg font-medium">
                         Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control.
-                        Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession
-                        we adhere to strict security guidelines, protecting it against unauthorized access.
+                        Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
                     </p>
                 </div>
                 <div>
                     <h4 class="pb-5 text-xl font-bold text-black dark:text-white sm:text-2xl">Choice/Opt-Out</h4>
                     <p class="text-lg font-medium">
-                        We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us
-                        on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all
-                        our lists and newsletters, please visit unsubscribe.
+                        We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all our lists and newsletters, please visit unsubscribe.
                     </p>
                 </div>
             </div>

@@ -497,8 +497,6 @@
 <script setup lang="ts">
     import { ref, onMounted} from 'vue';
     import { useAppStore } from '@/stores/index';
-    import Portfolio from '@/components/Portfolio.vue';
-import { prototype } from 'apexcharts';
     const store = useAppStore();
     const portfolioTypes = ref([]);
     const portfolioes = ref([]);
@@ -508,13 +506,6 @@ import { prototype } from 'apexcharts';
 
     const calculateActive = (tab) => {
         activeTab.value = tab;
-        // console.log(portfolioes.value);
-        // for(const portfolio in portfolioes.value){
-        //     if(portfolio.va?.type.includes(activeTab.value)){
-        //         count.value ++;
-        //     }
-        // }
-        // console.log(count.value);
     };
     onMounted(async () => {
     try {

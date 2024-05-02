@@ -5,11 +5,11 @@
                 <div class="container">
                     <div class="items-center py-10 md:flex md:h-[400px] md:py-0">
                         <div class="heading relative mb-0 md:w-[725px]">
-                            <h4 class="!text-white">"Dog House" SlotGame</h4>
+                            <h4 class="!text-white">Lovely Inu</h4>
                             <p
                                 class="relative mt-7 font-medium text-[#BBC0D0] before:absolute before:top-0 before:h-full before:w-1 before:bg-primary ltr:pl-8 ltr:before:left-0 rtl:pr-8 rtl:before:right-0"
                             >
-                            It features a fun and colorful theme centered around dogs living in their cozy dog house. The game includes various dog-related symbols like different breeds of dogs, dog collars, and bones.
+                            On this website, you can find information about Lovely Inu, a crypto asset that seems to be listed on multiple exchanges such as BitMart, MXC, Uniswap, PancakeSwap, LBank, Latoken, CoinTiger, IndoEx, Bitget, Toobit, and Gate. 
                             </p>
                         </div>
                     </div>
@@ -213,18 +213,28 @@
                         </ul>
                     </div>
                 </div>
-                
-                <div class="pb-14 md:pb-20 ">
-                    <h3 class="mb-7 mt-20 text-xl font-extrabold text-black dark:text-white sm:text-2xl">Description</h3>
+                <div class="pb-14 md:pb-20 mt-20">
+                    <h3 class="mb-7 text-xl font-extrabold text-black dark:text-white sm:text-2xl">Description</h3>
                     <p
                         class="relative font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
                     >
-                    "Dog House" is known for its engaging gameplay, vibrant graphics, and potential for rewarding bonuses. It has become a popular choice among online slot enthusiasts due to its entertaining theme and exciting features.
+                    Lovely Exchange appears to be a featured section that offers access to popular cryptocurrencies and different ways to earn within the platform.
+                    </p>
+                    <p
+                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >Lovely Chain is described as a Layer 2 solution, suggesting a focus on providing seamless and efficient transactions in the future.
+                    </p>
+                    <p
+                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >Lovely Inspector seems to be a service offered for auditing and securing smart contracts through comprehensive assessments and vulnerability checks.
+                    </p>
+                    <p
+                    class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >Lastly, Lovely Swap is mentioned as a decentralized exchange, hinting at the platform's commitment to embracing the power of decentralized trading.
                     </p>
                 </div>
-                
-                <div>
-                    <img src="/src/portfolioes/doghouse.jpg" alt="portfolio-img-4" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
+                <div class="py-[30px] sm:py-[50px]">
+                    <img src="/src/portfolioes/lovely.finance.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
                 </div>
             </div>
         </section>
