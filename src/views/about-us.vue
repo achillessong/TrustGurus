@@ -635,7 +635,7 @@
             </div>
         </section>
 
-        <section class="relative py-14 lg:py-[100px] xl:-mt-[100px]">
+        <section class="relative py-14 lg:py-[100px] xl:-mt-[-100px]">
             <div class="absolute top-0 z-[1] h-full w-full bg-white ltr:left-0 rtl:right-0 dark:bg-black xl:w-[85%] xl:rounded-r-[32px]"></div>
             <div
                 class="absolute -top-3 hidden h-full w-full rounded-r-[32px] bg-white/50 ltr:left-3 rtl:right-3 dark:bg-gray-dark xl:inline-block xl:w-[85%]"
@@ -723,11 +723,11 @@
                     <h6>{{jsonData[12]?.memberTitle}}</h6>
                     <h4>{{jsonData[12]?.memberTitleBottom}}</h4>
                 </div>
-                <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+                <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-2">
                     <template v-for="item in leaders" :key="item?.id">
                         <template v-if="item?.id < 4">
                             <div class="group cursor-pointer text-center">
-                                <div class="relative h-[280px] rounded-3xl transition-all duration-500 group-hover:shadow-[0_0_25px_#979797]">
+                                <div class="relative h-[400px] rounded-3xl transition-all duration-500 group-hover:shadow-[0_0_25px_#979797]">
                                     <img :src="item?.image" alt="team-member-1" class="h-full w-full rounded-3xl object-cover object-top" />
                                 </div>
                                 <h4 class="pt-5 pb-2 text-xl font-extrabold text-black transition duration-500 group-hover:text-secondary dark:text-white">

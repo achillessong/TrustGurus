@@ -6,12 +6,6 @@
         "image": "/src/teammember/song.png"
     },
     {
-        "id": "2",
-        "name": "Daniel Allen",
-        "role": "Chief Financial Officer",
-        "image": "/src/teammember/CFO.png"
-    },
-    {
         "id": "3",
         "name": "Demarques Gamble",
         "role": "Chief Technology Officer",

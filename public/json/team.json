@@ -6,12 +6,6 @@
         "image": "/src/teammember/venus.png"
     },
     {
-        "id": "2",
-        "name": "Daniel Allen",
-        "role": "Chief Financial Officer",
-        "image": "/src/teammember/CFO.png"
-    },
-    {
         "id": "3",
         "name": "Devonte Morris",
         "role": "Project Manager & Senior Blockchain Developer",
