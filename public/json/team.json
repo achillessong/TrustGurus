@@ -3,7 +3,7 @@
         "id": "1",
         "name": "Aditya Patel",
         "role": "Chief Executive Officer",
-        "image": "/src/teammember/song.png"
+        "image": "/src/teammember/ceo2.jpg"
     },
     {
         "id": "2",
@@ -13,9 +13,9 @@
     },
     {
         "id": "3",
-        "name": "Venus",
+        "name": "Mykola Kunychenko",
         "role": "Chief Technology Officer",
-        "image": "/src/teammember/venus.png"
+        "image": "/src/teammember/mykora.jpg"
     },
     {
         "id": "4",
@@ -25,7 +25,7 @@
     },
     {
         "id": "5",
-        "name": "Venus",
+        "name": "Demarques Gamble",
         "role": "Senior Blockchain Developer",
         "image": "/src/teammember/venus.png"
     },
@@ -58,7 +58,7 @@
         "id": "10",
         "name": "Elisha Kenedy",
         "role": "Senior Game Developer",
-        "image": "/src/teammember/achilles.png"
+        "image": "/src/teammember/achilles1.png"
     },
     {
         "id": "11",

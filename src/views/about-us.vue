@@ -719,28 +719,6 @@
 
         <section class="py-14 lg:py-[100px]">
             <div class="container">
-                <div class="heading text-center lg:w-2/3 ltr:lg:text-left rtl:lg:text-right">
-                    <h4 class="mb-5">{{jsonData[11]?.title}}</h4>
-                    <p class="text-lg leading-[23px]">
-                        {{jsonData[11]?.description}}
-                        <span class="font-semibold text-black dark:text-white"> {{jsonData[11]?.boldDescription}} </span> {{jsonData[11]?.lastDescriptoin}}
-                    </p>
-                </div>
-                <div class="grid gap-4 pt-5 sm:grid-cols-3 md:gap-[30px] lg:grid-cols-4 lg:pt-0">
-                    <div v-for="award in awards">
-                        <div data-aos="fade-up" data-aos-duration="1000">
-                            <div class="rounded-[32px] border border-transparent bg-white py-9 px-4 transition hover:border-secondary">
-                                <img :src="award?.description" alt="award" class="mx-auto h-[100px]" />
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-        <section class="py-14 lg:py-[100px]">
-            <div class="container">
                 <div class="heading text-center">
                     <h6>{{jsonData[12]?.memberTitle}}</h6>
                     <h4>{{jsonData[12]?.memberTitleBottom}}</h4>

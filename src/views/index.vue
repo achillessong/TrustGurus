@@ -79,7 +79,7 @@
                                     </div>
                                     <div class="ltr:pl-3 rtl:pr-3">
                                         <h4 class="mb-2 text-lg font-bold text-white">Creativity</h4>
-                                        <p class="font-semibold">Curabitur blandit lacus porttitor ridiculus mus.</p>
+                                        <!-- <p class="font-semibold">Curabitur blandit lacus porttitor ridiculus mus.</p> -->
                                     </div>
                                 </div>
                                 <div class="flex transition">
@@ -152,7 +152,7 @@
                                     </div>
                                     <div class="ltr:pl-3 rtl:pr-3">
                                         <h4 class="mb-2 text-lg font-bold text-white">Innovative Thinking</h4>
-                                        <p class="font-semibold">There are many variations of passages of Lorem Ipsum available</p>
+                                        <!-- <p class="font-semibold">There are many variations of passages of Lorem Ipsum available</p> -->
                                     </div>
                                 </div>
                                 <div class="flex transition">
@@ -188,7 +188,7 @@
                                     </div>
                                     <div class="ltr:pl-3 rtl:pr-3">
                                         <h4 class="mb-2 text-lg font-bold text-white">Rapid Solutions</h4>
-                                        <p class="font-semibold">Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
+                                        <!-- <p class="font-semibold">Contrary to popular belief, Lorem Ipsum is not simply random text.</p> -->
                                     </div>
                                 </div>
                                 <div class="flex transition">
@@ -214,7 +214,7 @@
                                     </div>
                                     <div class="ltr:pl-3 rtl:pr-3">
                                         <h4 class="mb-2 text-lg font-bold text-white">Top-Notch Support</h4>
-                                        <p class="font-semibold">It has survived not only five centuries, but also the leap into electronic typesetting</p>
+                                        <!-- <p class="font-semibold">It has survived not only five centuries, but also the leap into electronic typesetting</p> -->
                                     </div>
                                 </div>
                             </div>

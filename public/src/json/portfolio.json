@@ -70,20 +70,6 @@
         "category":"Game"
     },
     {
-        "id": "11",
-        "image": "/src/portfolioes/em-1.png",
-        "type": "ecommerce web",
-        "title": "Primeairtime",
-        "category":"Ecommerce WebSite"
-    },
-    {
-        "id": "12",
-        "image": "/src/portfolioes/de-2.png",
-        "type": "design web",
-        "title": "Arcade Studio",
-        "category":"Branding WebSite"
-    },
-    {
         "id": "13",
         "image": "/src/portfolioes/block-3.png",
         "type": "blockchain web",

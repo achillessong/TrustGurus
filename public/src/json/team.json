@@ -13,7 +13,7 @@
     },
     {
         "id": "3",
-        "name": "Venus",
+        "name": "Demarques Gamble",
         "role": "Chief Technology Officer",
         "image": "/src/teammember/venus.png"
     },
@@ -25,7 +25,7 @@
     },
     {
         "id": "5",
-        "name": "Venus",
+        "name": "Demarques Gamble",
         "role": "Senior Blockchain Developer",
         "image": "/src/teammember/venus.png"
     },
@@ -58,7 +58,7 @@
         "id": "10",
         "name": "Elisha Kenedy",
         "role": "Senior Game Developer",
-        "image": "/src/teammember/achilles.png"
+        "image": "/src/teammember/achilles1.png"
     },
     {
         "id": "11",
