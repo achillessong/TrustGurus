@@ -2,7 +2,7 @@
     <header class="sticky top-0 z-50 bg-black/10 transition duration-300">
         <div class="container">
             <div class="flex items-center justify-between py-5 lg:py-0">
-                <router-link to="/"><img src="/assets/images/logo.png" alt="logo" class="h-10" /></router-link>
+                <router-link to="/"><img src="/assets/images/logo.png" alt="logo" class="h-20" /></router-link>
                 <div class="flex items-center">
                     <div @click="toggleMenu()" class="overlay fixed inset-0 z-[51] bg-black/60 lg:hidden" :class="{ hidden: !showMenu }"></div>
                     <div class="menus" :class="{ 'overflow-y-auto ltr:!right-0 rtl:!left-0': showMenu }">
