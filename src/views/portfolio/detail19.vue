@@ -5,11 +5,11 @@
                 <div class="container">
                     <div class="items-center py-10 md:flex md:h-[400px] md:py-0">
                         <div class="heading relative mb-0 md:w-[725px]">
-                            <h4 class="!text-white">SpaceX GO!</h4>
+                            <h4 class="!text-white">Khal</h4>
                             <p
                                 class="relative mt-7 font-medium text-[#BBC0D0] before:absolute before:top-0 before:h-full before:w-1 before:bg-primary ltr:pl-8 ltr:before:left-0 rtl:pr-8 rtl:before:right-0"
                             >
-                            Key features include detailed launch schedules and profiles, notification alerts so you never miss a liftoff, and an evolving vehicle catalog covering all of SpaceX's rockets, capsules and recovery ships over the years.
+                            KHAL is a global leader in lightweight composite materials used to create durable and safe hardware.
                             </p>
                         </div>
                     </div>
@@ -27,14 +27,14 @@
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-flutter-96.png" alt="flutter" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/icons8-nginx-96.png" alt="nginx" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-android-96.png" alt="android" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/icons8-vue-js-96.png" alt="vue.js" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
@@ -48,7 +48,7 @@
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-react-80.png" alt="react" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/bootstrap.svg" alt="bootstrap" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
@@ -66,16 +66,26 @@
                     <p
                         class="relative font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
                     >
-                    The app also incorporates fun extras like a ships tracker to follow the progress of Of Course I Still Love You and Just Read the Instructions across the oceans. 
+                    KHAL leverages cutting-edge nanotechnology processes to manufacture advanced carbon fiber and polymer-based components.
                     </p>
                     <p
                         class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
                     >
-                    SpaceX GO! is optimized for both casual space fans and die-hard SpaceX followers alike. And best of all, it's completely open source so continues improving with the communities' help. 
+                    From aircraft components to sports equipment to medical devices, KHAL powers innovation by delivering optimized strength-to-weight solutions to customers.
+                    </p>
+                    <p
+                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >
+                    In addition to composites manufacturing, we offer expert consultancy services for material selection, testing, certification and more.
+                    </p>
+                    <p
+                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >
+                    KHAL has numerous production facilities, R&D centers and a global supplier network to ensure scalability and quality worldwide.
                     </p>
                 </div>
                 <div class="py-[30px] sm:py-[50px]">
-                    <img src="/src/portfolioes/flutter-1.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
+                    <img src="/src/portfolioes/em-7.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
                 </div>
             </div>
         </section>

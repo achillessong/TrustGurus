@@ -149,6 +149,12 @@ const routes: RouteRecordRaw[] = [
         meta: { title: 'Portfolio Detail | TrustGurus – Tailwind CSS Multipurpose Landing Templates' },
     },
     {
+        path: '/portfolio-detail/23',
+        name: 'portfolio-detail/23',
+        component: () => import(/* webpackChunkName: "portfolio" */ '../views/portfolio/detail23.vue'),
+        meta: { title: 'Portfolio Detail | TrustGurus – Tailwind CSS Multipurpose Landing Templates' },
+    },
+    {
         path: '/services',
         name: 'services',
         component: () => import(/* webpackChunkName: "services" */ '../views/services/index.vue'),

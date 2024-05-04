@@ -5,11 +5,13 @@
                 <div class="container">
                     <div class="items-center py-10 md:flex md:h-[400px] md:py-0">
                         <div class="heading relative mb-0 md:w-[725px]">
-                            <h4 class="!text-white">"Dog House" SlotGame</h4>
+                            <h4 class="!text-white">Book pet-friendly hotels</h4>
                             <p
                                 class="relative mt-7 font-medium text-[#BBC0D0] before:absolute before:top-0 before:h-full before:w-1 before:bg-primary ltr:pl-8 ltr:before:left-0 rtl:pr-8 rtl:before:right-0"
                             >
-                            It features a fun and colorful theme centered around dogs living in their cozy dog house. The game includes various dog-related symbols like different breeds of dogs, dog collars, and bones.
+                                Axie Infinity is a non-fungible token-based online video game developed by Vietnamese studio Sky Mavis, known for its in-game
+                                economy which uses Ethereum-based cryptocurrencies. Players of Axie Infinity collect and mint NFTs which represent
+                                axolotl-inspired digital pets known as Axies.
                             </p>
                         </div>
                     </div>
@@ -27,59 +29,68 @@
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-unity-96.png" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/icons8-vue-js-96.png" alt="vue.js" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/file-type-godot.svg" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/moment-js.svg" alt="moment-js" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-asp-96.png" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/jquery.svg" alt="jquery" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/java.svg" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/open-graph.svg" alt="open graph" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <svg width="27" height="30" viewBox="0 0 27 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M2.20085 26.8972L0 0L26.2838 0.0540514L23.9567 26.8972L13.2411 30L2.20085 26.8972Z" fill="#E34F26" />
-                                        <path d="M13.2388 27.4023V2.56152L24.0626 2.59756L22.1325 24.8225L13.2388 27.4023Z" fill="#EF652A" />
-                                        <path
-                                            d="M21.0902 8.76676L21.3967 5.4834H4.74609L5.66603 15.5497H17.1574L16.7067 19.8431L13.0266 20.8351L9.29235 19.7528L9.09395 17.1912H5.79236L6.24343 22.4227L13.0264 24.3169L19.8633 22.4227L20.7833 12.2123H8.71496L8.37221 8.76676H21.0902Z"
-                                            fill="white"
-                                        />
-                                    </svg>
+                                    <img src="/public/src/skills/icons8-cloudflare-96.png" alt="cloud flare" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                </div>
+                            </li>
+                            <li
+                                class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
+                            >
+                                <div>
+                                    <img src="/public/src/skills/google-analytics.svg" alt="google analytics" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                         </ul>
                     </div>
                 </div>
-                
-                <div class="pb-14 md:pb-20 mt-20">
-                    <h3 class="mb-7 mt-20 text-xl font-extrabold text-black dark:text-white sm:text-2xl">Description</h3>
+                <div class="py-14 md:py-20">
+                    
+                </div>
+                <div class="pb-14 md:pb-20">
+                    <h3 class="mb-7 text-xl font-extrabold text-black dark:text-white sm:text-2xl">Description</h3>
                     <p
                         class="relative font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
                     >
-                    "Dog House" is known for its engaging gameplay, vibrant graphics, and potential for rewarding bonuses. It has become a popular choice among online slot enthusiasts due to its entertaining theme and exciting features.
+                        Mosaic is a finance tool for making better business moves — automating data aggregation, analysis, and financial forecasting. In late
+                        2021, we partnered to help them take charge of the Strategic Finance category with a new brand, voice, and web experience. To connect
+                        with their audience of finance leaders they needed to look and feel like a polished, confident, no-nonsense brand.
+                    </p>
+                    <p
+                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >
+                        Easily recognised by its expert tone of voice and chess-styled visuals, Mosaic takes after its ideal user: the less meetings, more doing
+                        kinda folk. Tasked with bringing this new brand to life online, we built an experience to catch the eye of startups everywhere.
                     </p>
                 </div>
-                
                 <div>
-                    <img src="/src/portfolioes/doghouse.jpg" alt="portfolio-img-4" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
+                    <img src="/src/portfolioes/em-2.png" alt="portfolio-img-4" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
                 </div>
             </div>
         </section>

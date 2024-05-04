@@ -5,11 +5,11 @@
                 <div class="container">
                     <div class="items-center py-10 md:flex md:h-[400px] md:py-0">
                         <div class="heading relative mb-0 md:w-[725px]">
-                            <h4 class="!text-white">Lovely Inu</h4>
+                            <h4 class="!text-white">Flappy Bee</h4>
                             <p
                                 class="relative mt-7 font-medium text-[#BBC0D0] before:absolute before:top-0 before:h-full before:w-1 before:bg-primary ltr:pl-8 ltr:before:left-0 rtl:pr-8 rtl:before:right-0"
                             >
-                            On this website, you can find information about Lovely Inu, a crypto asset that seems to be listed on multiple exchanges such as BitMart, MXC, Uniswap, PancakeSwap, LBank, Latoken, CoinTiger, IndoEx, Bitget, Toobit, and Gate. 
+                            It is a delightful little website where you can experience the joys of playing the classic game called Flappy Bee.
                             </p>
                         </div>
                     </div>
@@ -34,62 +34,62 @@
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-nextjs-96.png" alt="next" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/open-graph.svg" alt="open graph" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/file_type_typescript_icon_130108.png" alt="typescript" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/icons8-nginx-96.png" alt="nginx" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-nuxt-js-96.png" alt="nuxt" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/icons8-emotions-64.png" alt="emotion" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-nodejs-96.png" alt="node" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/icons8-material-ui-96.png" alt="MUI" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-cloudflare-96.png" alt="cloudflare" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/ethers-seeklogo.svg" alt="ethers" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                         </ul>
                     </div>
                 </div>
+                
                 <div class="pb-14 md:pb-20 mt-20">
                     <h3 class="mb-7 text-xl font-extrabold text-black dark:text-white sm:text-2xl">Description</h3>
                     <p
-                        class="relative font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >
-                    Lovely Exchange appears to be a featured section that offers access to popular cryptocurrencies and different ways to earn within the platform.
+                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >The objective is quite simple: you control a little bee and your mission is to navigate through a series of obstacles by tapping or clicking to make the bee flap its wings. The goal is to achieve a high score by avoiding collisions with the obstacles. 
                     </p>
                     <p
                         class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >Lovely Chain is described as a Layer 2 solution, suggesting a focus on providing seamless and efficient transactions in the future.
+                    >The goal is to achieve a high score by avoiding collisions with the obstacles.
                     </p>
                     <p
                         class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >Lovely Inspector seems to be a service offered for auditing and securing smart contracts through comprehensive assessments and vulnerability checks.
+                    >The website features vibrant graphics and an addictive gameplay experience that will keep you engaged for hours.
                     </p>
                     <p
-                    class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >Lastly, Lovely Swap is mentioned as a decentralized exchange, hinting at the platform's commitment to embracing the power of decentralized trading.
+                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
+                    >However, do keep in mind that to fully enjoy the Flappy Bee experience, you need to enable JavaScript in your browser. 
                     </p>
                 </div>
                 <div class="py-[30px] sm:py-[50px]">
-                    <img src="/src/portfolioes/lovely.finance.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
+                    <img src="/src/portfolioes/flappybee.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
                 </div>
             </div>
         </section>

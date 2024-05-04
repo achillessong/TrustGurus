@@ -271,7 +271,7 @@
             </div>
         </section>
 
-        <section class="bg-[url(/assets/images/team-bg.png)] bg-cover bg-center bg-no-repeat py-14 dark:bg-black/50 lg:py-[100px]">
+    <section class="bg-[url(/assets/images/team-bg.png)] bg-cover bg-center bg-no-repeat py-14 dark:bg-black/50 lg:py-[100px]">
             <div class="container">
                 <div class="heading text-center">
                     <h6>Meet Our Team</h6>

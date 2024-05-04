@@ -5,11 +5,11 @@
                 <div class="container">
                     <div class="items-center py-10 md:flex md:h-[400px] md:py-0">
                         <div class="heading relative mb-0 md:w-[725px]">
-                            <h4 class="!text-white">Khal</h4>
+                            <h4 class="!text-white">Davinci Treasure SlotGame</h4>
                             <p
                                 class="relative mt-7 font-medium text-[#BBC0D0] before:absolute before:top-0 before:h-full before:w-1 before:bg-primary ltr:pl-8 ltr:before:left-0 rtl:pr-8 rtl:before:right-0"
                             >
-                            KHAL is a global leader in lightweight composite materials used to create durable and safe hardware.
+                            It's a popular low to medium volatility game ideal for casual players or those new to slots. Strategy lies in choosing the optimal bet level.
                             </p>
                         </div>
                     </div>
@@ -27,35 +27,42 @@
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-nginx-96.png" alt="nginx" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/icons8-unity-96.png" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-vue-js-96.png" alt="vue.js" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/file-type-godot.svg" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/jquery.svg" alt="jquery" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/icons8-asp-96.png" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/bootstrap.svg" alt="bootstrap" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <img src="/public/src/skills/java.svg" alt="unity" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
                                 </div>
                             </li>
                             <li
                                 class="flex h-16 w-16 items-center justify-center rounded-2xl border border-transparent bg-white transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:bg-gray-dark md:h-20 md:w-20 md:rounded-[32px]"
                             >
                                 <div>
-                                    <img src="/public/src/skills/icons8-cloudflare-96.png" alt="cloud flare" class="h-10 w-10 rounded-r-[32px] rounded-l-[32px] object-cover md:rounded-r-none" />
+                                    <svg width="27" height="30" viewBox="0 0 27 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M2.20085 26.8972L0 0L26.2838 0.0540514L23.9567 26.8972L13.2411 30L2.20085 26.8972Z" fill="#E34F26" />
+                                        <path d="M13.2388 27.4023V2.56152L24.0626 2.59756L22.1325 24.8225L13.2388 27.4023Z" fill="#EF652A" />
+                                        <path
+                                            d="M21.0902 8.76676L21.3967 5.4834H4.74609L5.66603 15.5497H17.1574L16.7067 19.8431L13.0266 20.8351L9.29235 19.7528L9.09395 17.1912H5.79236L6.24343 22.4227L13.0264 24.3169L19.8633 22.4227L20.7833 12.2123H8.71496L8.37221 8.76676H21.0902Z"
+                                            fill="white"
+                                        />
+                                    </svg>
                                 </div>
                             </li>
                         </ul>
@@ -66,26 +73,22 @@
                     <p
                         class="relative font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
                     >
-                    KHAL leverages cutting-edge nanotechnology processes to manufacture advanced carbon fiber and polymer-based components.
+                    It's a classic 5-reel, 20-payline video slot with a renaissance art theme in homage to Leonardo davinci.
                     </p>
                     <p
                         class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
                     >
-                    From aircraft components to sports equipment to medical devices, KHAL powers innovation by delivering optimized strength-to-weight solutions to customers.
+                    The wild symbol is da Vinci himself which can substitute for all other symbols to complete a winning combination.
                     </p>
                     <p
                         class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
                     >
-                    In addition to composites manufacturing, we offer expert consultancy services for material selection, testing, certification and more.
+                    There's also a Jackpot feature triggered by landing 5 Jackpot symbols on a payline. This can award progressive or fixed cash prizes.
                     </p>
-                    <p
-                        class="relative mt-5 font-semibold leading-[30px] before:absolute before:top-0 before:h-full before:w-1 before:rounded before:bg-primary ltr:pl-6 ltr:before:left-0 rtl:pr-6 rtl:before:right-0 md:text-lg"
-                    >
-                    KHAL has numerous production facilities, R&D centers and a global supplier network to ensure scalability and quality worldwide.
-                    </p>
+                    
                 </div>
                 <div class="py-[30px] sm:py-[50px]">
-                    <img src="/src/portfolioes/em-7.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
+                    <img src="/src/portfolioes/davinci.png" alt="portfolio-img-3" class="rounded-[32px]" data-aos="fade-up" data-aos-duration="1000" />
                 </div>
             </div>
         </section>
