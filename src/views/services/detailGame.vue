@@ -272,36 +272,6 @@
             </div>
         </section>
 
-        <section class="py-14 lg:py-[100px]">
-            <div class="container">
-                <div class="heading text-center ltr:lg:text-left rtl:lg:text-right">
-                    <h4>Our Technologies</h4>
-                </div>
-                <div class="overflow-y-auto">
-                    <div class="grid w-[768px] grid-cols-6 gap-[30px] md:w-auto">
-                        <div class="rounded-[32px] border border-transparent transition duration-500 hover:border-secondary">
-                            <img src="/assets/images/figma.png" alt="Figma" class="rounded-[32px]" />
-                        </div>
-                        <div class="rounded-[32px] border border-transparent transition duration-500 hover:border-secondary">
-                            <img src="/assets/images/sketch.png" alt="SKetch" class="rounded-[32px]" />
-                        </div>
-                        <div class="rounded-[32px] border border-transparent transition duration-500 hover:border-secondary">
-                            <img src="/assets/images/marvel.png" alt="Marvel" class="rounded-[32px]" />
-                        </div>
-                        <div class="rounded-[32px] border border-transparent transition duration-500 hover:border-secondary">
-                            <img src="/assets/images/invision-studio.png" alt="InVision-Studio" class="rounded-[32px]" />
-                        </div>
-                        <div class="rounded-[32px] border border-transparent transition duration-500 hover:border-secondary">
-                            <img src="/assets/images/adobe-xd.png" alt="Adobe-XD" class="rounded-[32px]" />
-                        </div>
-                        <div class="rounded-[32px] border border-transparent transition duration-500 hover:border-secondary">
-                            <img src="/assets/images/origami-studio.png" alt="Origami-Studio" class="rounded-[32px]" />
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <blog-slider sub-title="Related articles"></blog-slider>
 
         <Testimonial class="py-14 lg:py-[100px]" :show-title="false"></Testimonial>
