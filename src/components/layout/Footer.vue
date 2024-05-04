@@ -3,7 +3,7 @@
         <div class="container">
             <div class="grid gap-y-10 gap-x-4 py-14 sm:grid-cols-3 lg:grid-cols-5 lg:py-[100px]">
                 <div class="relative">
-                    <img src="/assets/images/logo.png" alt="TrustGurus" class="h-7" />
+                    <img src="/assets/images/logo.png" alt="TrustGurus" class="h-20" />
                     <ul class="mt-12 flex items-center gap-8">
                         <li>
                             <a :href="teaminfor?.facebook">
