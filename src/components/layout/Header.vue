@@ -119,7 +119,7 @@
                                 </svg>
                             </button>
                         </li>
-                        <li>
+                        <!-- <li>
                             <button
                                 type="button"
                                 class="flex h-10 w-10 items-center justify-center rounded-full bg-gray-dark text-white hover:text-primary"
@@ -156,7 +156,7 @@
                                     />
                                 </svg>
                             </button>
-                        </li>
+                        </li> -->
                     </ul>
                     <button type="button" class="flex h-10 w-10 items-center justify-center rounded-full bg-primary lg:hidden" @click="toggleMenu()">
                         <svg width="22" height="18" viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-white">
