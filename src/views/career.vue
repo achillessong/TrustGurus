@@ -800,8 +800,8 @@
                     <h6>{{jsonData[4]?.subtitle}}</h6>
                     <h4>{{jsonData[4]?.title}}</h4>
                 </div>
-                <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-                    <div v-for="leader in leaders.slice(0,3)">
+                <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-2">
+                    <div v-for="leader in leaders.slice(0,2)">
                         <div class="group cursor-pointer text-center">
                             <div class="relative h-[280px] rounded-3xl transition-all duration-500 group-hover:shadow-[0_0_25px_#979797]">
                                 <img :src="leader?.image" alt="team-member-1" class="h-full w-full rounded-3xl object-cover object-top" />
