@@ -803,7 +803,7 @@
                 <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-2">
                     <div v-for="leader in leaders.slice(0,2)">
                         <div class="group cursor-pointer text-center">
-                            <div class="relative h-[280px] rounded-3xl transition-all duration-500 group-hover:shadow-[0_0_25px_#979797]">
+                            <div class="relative h-[400px] rounded-3xl transition-all duration-500 group-hover:shadow-[0_0_25px_#979797]">
                                 <img :src="leader?.image" alt="team-member-1" class="h-full w-full rounded-3xl object-cover object-top" />
                             </div>
                             <h4 class="pt-5 pb-2 text-xl font-extrabold text-black transition duration-500 group-hover:text-secondary dark:text-white">
