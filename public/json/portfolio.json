@@ -44,7 +44,7 @@
     {
         "id": "7",
         "image": "/src/portfolioes/ai1.png",
-        "type": "arin web",
+    "type": "arin web",
         "title": "Speaking Your Brand",
         "category":"AI WebSite"
     },
