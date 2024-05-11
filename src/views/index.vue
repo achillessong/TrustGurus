@@ -8,7 +8,7 @@
                     <div class="relative bg-[url('/assets/images/world-map.png')] bg-cover bg-top bg-no-repeat pt-14 pb-0 lg:pt-20 lg:pb-60 xl:pt-36">
                         <div class="relative z-[1] text-center text-white lg:w-4/5 ltr:lg:text-left rtl:lg:text-right xl:w-3/5">
                             <h2 class="text-4xl font-extrabold leading-normal sm:text-5xl lg:text-[70px] lg:leading-[90px]">
-                                Trust-Gurus <span class="italic text-primary"> team </span>
+                                Trust-Gurus <span class="italic text-primary"> Team </span>
                             </h2>
                             <p class="my-8 text-lg lg:w-[90%]">
                                 Our exceptional team is a dynamic group of individuals united by a shared passion, diverse skill sets, and a commitment to achieving excellence in every endeavor.
