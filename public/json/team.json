@@ -7,15 +7,16 @@
     },
     {
         "id": "3",
-        "name": "Devonte Morris",
+        "name": "Mark Soosar",
         "role": "Project Manager & Senior Blockchain Developer",
-        "image": "/src/teammember/Devonte Morris.png"
+        "image": "/src/teammember/Joshua Anderson.jpg"
     },
+    
     {
         "id": "4",
-        "name": "Devonte Morris",
+        "name": "Mark Soosar",
         "role": "Project Manager & Senior Blockchain Developer",
-        "image": "/src/teammember/Devonte Morris.png"
+        "image": "/src/teammember/Joshua Anderson.jpg"
     },
     {
         "id": "5",
@@ -26,15 +27,15 @@
     },
     {
         "id": "6",
-        "name": "Mark Soosar",
+        "name": "Devonte Morris",
         "role": "Senior Blockchain Developer",
-        "image": "/src/teammember/Joshua Anderson.jpg"
+        "image": "/src/teammember/Devonte Morris.png"
     },
     {
         "id": "7",
-        "name": "Hryhorii Stupak",
-        "role": "Senior FullStack Engineer",
-        "image": "/src/teammember/hryhorii.png"
+        "name": "Kamil Nowak",
+        "role": "Senior FullStack Developer",
+        "image": "/src/teammember/atos.jpg"
     },
     {
         "id": "8",
